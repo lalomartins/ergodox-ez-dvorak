@@ -91,7 +91,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_DOWN,
     KC_LBRACKET,
     KC_RBRACKET,
-    MO(1),
+    KC_EQUAL,
 
     // right thumb
     KC_LALT,
