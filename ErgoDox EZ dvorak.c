@@ -24,7 +24,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_DOT,
     KC_P,
     KC_Y,
-    TO(1, ON_PRESS),
+    TG(1),
 
     KC_CAPSLOCK,
     KC_A,
@@ -39,7 +39,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_J,
     KC_K,
     KC_X,
-    TO(2, ON_PRESS),
+    TG(2),
 
     KC_LCTRL,
     KC_LGUI,
@@ -64,7 +64,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_0,
     KC_BSLASH,
 
-    TO(1, ON_PRESS),
+    TG(1),
     KC_F,
     KC_G,
     KC_C,
@@ -118,7 +118,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_LEFT_CURLY_BRACE,
     KC_RIGHT_CURLY_BRACE,
     KC_QUESTION_MARK,
-    TO(0, ON_PRESS),
+    KC_TRANSPARENT,
 
     KC_TRANSPARENT,
     KC_HASH,
@@ -159,7 +159,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_F10,
     KC_PSCREEN,
 
-    TO(0, ON_PRESS),
+    KC_TRANSPARENT,
     KC_UP,
     KC_KP_7,
     KC_KP_8,
@@ -199,9 +199,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
   [2] = KEYMAP(
     // left main
-    KC_NO,
-    KC_NO,
-    KC_NO,
+    KC_MS_ACCEL0,
+    KC_MS_ACCEL1,
+    KC_MS_ACCEL2,
     KC_NO,
     KC_NO,
     KC_NO,
@@ -228,7 +228,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_NO,
     KC_NO,
     KC_MS_WH_DOWN,
-    TO(0, ON_PRESS),
+    KC_TRANSPARENT,
 
     KC_TRANSPARENT,
     KC_TRANSPARENT,
