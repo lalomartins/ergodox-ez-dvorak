@@ -48,7 +48,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_RIGHT,
 
     // left thumb
-    KC_MENU,
+    KC_APP,
     KC_LGUI,
     KC_HOME,
     KC_SPACE,
