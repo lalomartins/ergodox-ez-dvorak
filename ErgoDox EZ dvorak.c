@@ -3,6 +3,7 @@
 #include "action_layer.h"
 
 #define KC_QUESTION_MARK LSFT(KC_SLASH)   // ?
+// #define KC_KP_BSPACE 0xBB
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   // If it accepts an argument (i.e, is a function), it doesn't need KC_.
@@ -26,7 +27,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_Y,
     TG(1),
 
-    KC_CAPSLOCK,
+    KC_CAPSLOCK,   // XXX should do something with the LEDs
     KC_A,
     KC_O,
     KC_E,
@@ -150,7 +151,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT,
 
     // right main
-    // XXX needs work; the one I made in Massdrop makes much more sense
     KC_F12,
     KC_F6,
     KC_F7,
@@ -165,28 +165,28 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_KP_8,
     KC_KP_9,
     KC_KP_ASTERISK,
-    KC_F12,
+    KC_KP_SLASH,
 
     KC_DOWN,
     KC_KP_4,
     KC_KP_5,
     KC_KP_6,
     KC_KP_PLUS,
-    KC_TRANSPARENT,
+    KC_KP_MINUS,
 
     KC_TRANSPARENT,
-    KC_TRANSPARENT,
+    KC_COMMA,      // XXX should be KC_KP_COMMA but that inserts . because of course it does
     KC_KP_1,
     KC_KP_2,
     KC_KP_3,
-    KC_KP_SLASH,
+    KC_KP_ENTER,
     KC_TRANSPARENT,
 
-    KC_TRANSPARENT,
-    KC_KP_DOT,
     KC_KP_0,
+    KC_KP_0,
+    KC_KP_DOT,
     KC_KP_EQUAL,
-    KC_TRANSPARENT,
+    KC_BSPACE,     // XXX should be KC_KP_BSPACE (0xbb) but it's not supported
 
     // right thumb
     KC_TRANSPARENT,
