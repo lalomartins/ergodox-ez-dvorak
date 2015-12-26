@@ -174,7 +174,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_KP_PLUS,
     KC_KP_MINUS,
 
-    KC_TRANSPARENT,
+    KC_NUMLOCK,
     KC_COMMA,      // XXX should be KC_KP_COMMA but that inserts . because of course it does
     KC_KP_1,
     KC_KP_2,
