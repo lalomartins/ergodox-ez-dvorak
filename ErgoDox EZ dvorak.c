@@ -63,7 +63,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_8,
     KC_9,
     KC_0,
-    KC_BSLASH,
+    LT(2, KC_BSLASH),
 
     TG(1),
     KC_F,
@@ -80,7 +80,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_S,
     KC_MINUS,
 
-    LT(2, KC_RGUI),
+    KC_RGUI,
     KC_B,
     KC_M,
     KC_W,
@@ -251,7 +251,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_NO,
     KC_NO,
     KC_NO,
-    KC_NO,
+    KC_TRANSPARENT, // for the LT() on base
 
     KC_NO,
     KC_NO,
@@ -268,7 +268,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_NO,
     KC_MEDIA_PLAY_PAUSE,
 
-    KC_TRANSPARENT, // for the LT() on base
+    KC_NO,
     KC_NO,
     KC_MEDIA_PREV_TRACK,
     KC_MEDIA_NEXT_TRACK,
