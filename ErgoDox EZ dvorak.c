@@ -19,7 +19,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_5,
     KC_WWW_BACK,
 
-    KC_DELETE,
+    LT(1, KC_DELETE),
     KC_QUOTE,
     KC_COMMA,
     KC_DOT,
@@ -80,7 +80,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_S,
     KC_MINUS,
 
-    KC_RGUI,
+    LT(2, KC_RGUI),
     KC_B,
     KC_M,
     KC_W,
@@ -92,7 +92,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_DOWN,
     KC_LBRACKET,
     KC_RBRACKET,
-    KC_EQUAL,
+    CTL_T(KC_EQUAL),
 
     // right thumb
     KC_LALT,
@@ -268,7 +268,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_NO,
     KC_MEDIA_PLAY_PAUSE,
 
-    KC_NO,
+    KC_TRANSPARENT, // for the LT() on base
     KC_NO,
     KC_MEDIA_PREV_TRACK,
     KC_MEDIA_NEXT_TRACK,
