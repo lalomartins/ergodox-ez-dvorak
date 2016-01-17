@@ -63,7 +63,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_8,
     KC_9,
     KC_0,
-    LT(2, KC_BSLASH),
+    LT(2, KC_EQUAL),
 
     TG(1),
     KC_F,
@@ -92,7 +92,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_END,
     KC_LBRACKET,
     KC_RBRACKET,
-    CTL_T(KC_EQUAL),
+    CTL_T(KC_BSLASH),
 
     // right thumb
     KC_LALT,
