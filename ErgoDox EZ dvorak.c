@@ -1,6 +1,7 @@
 #include "ergodox_ez.h"
 #include "debug.h"
 #include "action_layer.h"
+#include "led.h"
 
 #define KC_QUESTION_MARK LSFT(KC_SLASH)   // ?
 // #define KC_KP_BSPACE 0xBB
@@ -420,22 +421,32 @@ void * matrix_scan_user(void) {
     ergodox_right_led_2_off();
     ergodox_right_led_3_off();
     switch (layer) {
-        case 1:
+        case 1: // qwerty/japanese mode
             ergodox_right_led_3_on();
             ergodox_right_led_3_set(7);
+
+            if (host_keyboard_leds() & (1<<USB_LED_CAPS_LOCK)) {
+              ergodox_right_led_2_on();
+              ergodox_right_led_2_set(31);
+            }
             break;
-        case 2:
+        case 2: // symbols
             ergodox_right_led_1_on();
             ergodox_right_led_1_set(15);
+            if (!(host_keyboard_leds() & (1<<USB_LED_NUM_LOCK))) {
+              ergodox_right_led_2_on();
+              ergodox_right_led_2_set(127);
+            }
             break;
-        case 3:
-            // ergodox_right_led_2_on();
+        case 3: // mouse & media
             ergodox_right_led_1_on();
             ergodox_right_led_1_set(127);
             break;
         default:
-            // none
+            if (host_keyboard_leds() & (1<<USB_LED_CAPS_LOCK)) {
+              ergodox_right_led_2_on();
+              ergodox_right_led_2_set(31);
+            }
             break;
     }
-
 };
