@@ -180,7 +180,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_COMMA,
     KC_DOT,
     KC_SLASH,
-    SFT_T(KC_JYEN),      // on Ubuntu, with JA keymap, types \| instead of the ¥ it's supposed to type. In kana, it's the long dash.
+    SFT_T(KC_RO),        // JP: \_, kanna: ro
 
     KC_HOME,
     KC_END,
@@ -189,7 +189,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     CTL_T(KC_BSLASH),    // JP: ]}
 
     // right thumb
-    KC_LALT,
+    SFT_T(KC_JYEN),      // on Ubuntu, with JA keymap, types \| instead of the ¥ it's supposed to type. In kana, it's the long dash.
     KC_ESCAPE,
     KC_PGUP,
     KC_PGDOWN,
