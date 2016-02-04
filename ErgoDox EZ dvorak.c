@@ -19,13 +19,13 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_5,
     KC_WWW_BACK,
 
-    LT(1, KC_DELETE),
+    LT(2, KC_DELETE),
     KC_QUOTE,
     KC_COMMA,
     KC_DOT,
     KC_P,
     KC_Y,
-    TG(1),
+    TG(2),
 
     KC_CAPSLOCK,   // XXX should do something with the LEDs
     KC_A,
@@ -40,7 +40,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_J,
     KC_K,
     KC_X,
-    TG(2),
+    TG(3),
 
     KC_LCTRL,
     KC_LGUI,
@@ -63,9 +63,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_8,
     KC_9,
     KC_0,
-    LT(2, KC_EQUAL),
+    LT(3, KC_EQUAL),
 
-    TG(1),
+    TG(2),
     KC_F,
     KC_G,
     KC_C,
@@ -104,6 +104,100 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   ),
 
   [1] = KEYMAP(
+    // left main
+    KC_TRANSPARENT,      // JP: Zenkaku_Hankaku
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,      // JP: 2"
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_Q,
+    KC_W,
+    KC_E,
+    KC_R,
+    KC_T,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_A,
+    KC_S,
+    KC_D,
+    KC_F,
+    KC_G,
+
+    KC_TRANSPARENT,
+    KC_Z,
+    KC_X,
+    KC_C,
+    KC_V,
+    KC_B,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    // left thumb
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    // right main
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,      // JP: 6&
+    KC_TRANSPARENT,      // JP: 7'
+    KC_TRANSPARENT,      // JP: 8(
+    KC_TRANSPARENT,      // JP: 9)
+    KC_TRANSPARENT,      // JP: 0~
+    LT(3, KC_RBRACKET),  // JP: [{
+
+    KC_TRANSPARENT,
+    KC_Y,
+    KC_U,
+    KC_I,
+    KC_O,
+    KC_P,
+    KC_LBRACKET,         // JP: @`
+
+    KC_H,
+    KC_J,
+    KC_K,
+    KC_L,
+    KC_SCOLON,           // JP: ;+
+    KC_QUOTE,            // JP: :*
+
+    KC_TRANSPARENT,
+    KC_N,
+    KC_M,
+    KC_COMMA,
+    KC_DOT,
+    KC_SLASH,
+    SFT_T(KC_JYEN),      // on Ubuntu, with JA keymap, types \| instead of the ¥ it's supposed to type. In kana, it's the long dash.
+
+    KC_HOME,
+    KC_END,
+    KC_MINUS,            // JP: -=
+    KC_EQUAL,            // JP: ^~
+    CTL_T(KC_BSLASH),    // JP: ]}
+
+    // right thumb
+    KC_LALT,
+    KC_ESCAPE,
+    KC_PGUP,
+    KC_PGDOWN,
+    KC_TAB,
+    KC_ENTER
+  ),
+
+  [2] = KEYMAP(
     // left main
     KC_PSCREEN,
     KC_F1,
@@ -197,7 +291,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT
   ),
 
-  [2] = KEYMAP(
+  [3] = KEYMAP(
     // left main
     KC_MS_ACCEL0,
     KC_MS_ACCEL1,
@@ -245,7 +339,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_NO,
 
     // right main
-    KC_NO,
+    TG(1),
     KC_NO,
     KC_NO,
     KC_NO,
@@ -326,12 +420,18 @@ void * matrix_scan_user(void) {
     ergodox_right_led_2_off();
     ergodox_right_led_3_off();
     switch (layer) {
-      // TODO: Make this relevant to the ErgoDox EZ.
         case 1:
-            ergodox_right_led_1_on();
+            ergodox_right_led_3_on();
+            ergodox_right_led_3_set(7);
             break;
         case 2:
-            ergodox_right_led_2_on();
+            ergodox_right_led_1_on();
+            ergodox_right_led_1_set(15);
+            break;
+        case 3:
+            // ergodox_right_led_2_on();
+            ergodox_right_led_1_on();
+            ergodox_right_led_1_set(127);
             break;
         default:
             // none
