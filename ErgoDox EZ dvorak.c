@@ -20,7 +20,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_5,
     KC_WWW_BACK,
 
-    LT(2, KC_DELETE),
+    KC_DELETE,
     KC_QUOTE,
     KC_COMMA,
     KC_DOT,
@@ -45,17 +45,17 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     KC_LCTRL,
     KC_LGUI,
+    KC_INT3,       // on Ubuntu, with JA keymap, types \| instead of the ¥ it's supposed to type. In kana, it's the long dash.
+    KC_INT5,       // Kana switch in JA
     KC_LALT,
-    KC_LEFT,
-    KC_RIGHT,
 
     // left thumb
     KC_APP,
-    KC_LGUI,
     KC_UP,
+    KC_DOWN,
     KC_SPACE,
     KC_BSPACE,
-    KC_DOWN,
+    LT(2, KC_LEFT),
 
     // right main
     KC_WWW_FORWARD,
@@ -64,7 +64,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_8,
     KC_9,
     KC_0,
-    LT(3, KC_EQUAL),
+    KC_EQUAL,
 
     TG(2),
     KC_F,
@@ -81,27 +81,26 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_S,
     KC_MINUS,
 
-    KC_RGUI,
+    KC_LANG3,      // I bound this to IM/keymap switch ^.^
     KC_B,
     KC_M,
     KC_W,
     KC_V,
     KC_Z,
     // KC_RSHIFT,
-    SFT_T(KC_RO),        // JP: \_, kanna: ro
+    SFT_T(KC_INT1),      // JP: \_, kanna: ro
 
-    KC_HOME,
-    KC_END,
+    KC_RGUI,
+    KC_NONUS_BSLASH,     // xmodmapped to €¥
     KC_LBRACKET,
     KC_RBRACKET,
     CTL_T(KC_BSLASH),
 
     // right thumb
-    ALT_T(KC_JYEN),      // on Ubuntu, with JA keymap, types \| instead of the ¥ it's supposed to type. In kana, it's the long dash.
-    // KC_LALT,
-    KC_ESCAPE,
     KC_PGUP,
+    KC_ESCAPE,
     KC_PGDOWN,
+    LT(2, KC_RIGHT),
     KC_TAB,
     KC_ENTER
   ),
@@ -204,6 +203,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
   [2] = KEYMAP(
     // left main
+    // there's probably more keys that would make sense here, but for now this is great
     KC_PSCREEN,
     KC_F1,
     KC_F2,
@@ -213,26 +213,26 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_F11,
 
     KC_TRANSPARENT,
-    KC_EXCLAIM,
-    KC_AT,
-    KC_LEFT_CURLY_BRACE,
-    KC_RIGHT_CURLY_BRACE,
-    KC_QUESTION_MARK,
+    KC_NO,
+    KC_NO,
+    KC_UP,
+    KC_PGUP,
+    KC_NO,
     KC_TRANSPARENT,
 
     KC_TRANSPARENT,
-    KC_HASH,
-    KC_DOLLAR,
-    KC_LEFT_PAREN,
-    KC_RIGHT_PAREN,
-    KC_GRAVE,
+    KC_HOME,
+    KC_LEFT,
+    KC_DOWN,
+    KC_RIGHT,
+    KC_END,
 
     KC_TRANSPARENT,
-    KC_PERCENT,
-    KC_CIRCUMFLEX,
-    KC_LBRACKET,
-    KC_RBRACKET,
-    KC_TILDE,
+    KC_NO,
+    KC_NO,
+    KC_NO,
+    KC_PGDN,
+    KC_NO,
     KC_TRANSPARENT,
 
     KC_TRANSPARENT,
@@ -434,7 +434,7 @@ void * matrix_scan_user(void) {
               ergodox_right_led_2_set(31);
             }
             break;
-        case 2: // symbols
+        case 2: // keypads
             ergodox_right_led_1_on();
             ergodox_right_led_1_set(15);
             if (!(host_keyboard_leds() & (1<<USB_LED_NUM_LOCK))) {
