@@ -1,0 +1,717 @@
+<svg width="990" height="1400" data-id="0" id="l-0" xmlns:svg="http://www.w3.org/2000/svg">
+  <style type="text/css">
+    .k {
+      fill: #e3fdff;
+    }
+    .o {
+      stroke: #666;
+      fill-opacity: 0;
+    }
+    .t {
+      text-anchor: middle;
+      font-family: "Source Sans Pro";
+    }
+    .t-x {
+      font-size: 75%;
+      fill: #0000a0;
+    }
+    .t-h {
+      fill: #a00000;
+    }
+  </style>
+  <g>
+    <rect style="" class="k k-1" width="72.9" height="48.6" x="2.30931" y="29.53557" transform=""></rect>
+    <text class="t" x="38.75931" y="57.83557" transform=""><tspan dy="-7" x="38.75931">~</tspan><tspan dy="14" x="38.75931">`</tspan></text>
+    <rect style="" class="o o-1" data-id="1" width="72.9" height="48.6" x="2.30931" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-2" width="48.6" height="48.6" x="78.75306" y="29.53557" transform=""></rect>
+    <text class="t" x="103.05306" y="57.83557" transform=""><tspan dy="-7" x="103.05306">!</tspan><tspan dy="14" x="103.05306">1</tspan></text>
+    <rect style="" class="o o-2" data-id="2" width="48.6" height="48.6" x="78.75306" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-3" width="48.6" height="48.6" x="130.18806" y="20.95632" transform=""></rect>
+    <text class="t" x="154.48806" y="49.25632" transform=""><tspan dy="-7" x="154.48806">@</tspan><tspan dy="14" x="154.48806">2</tspan></text>
+    <rect style="" class="o o-3" data-id="3" width="48.6" height="48.6" x="130.18806" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-4" width="48.6" height="48.6" x="181.62306" y="16.64253" transform=""></rect>
+    <text class="t" x="205.92306" y="44.94253" transform=""><tspan dy="-7" x="205.92306">#</tspan><tspan dy="14" x="205.92306">3</tspan></text>
+    <rect style="" class="o o-4" data-id="4" width="48.6" height="48.6" x="181.62306" y="16.64253" transform=""></rect>
+    <rect style="" class="k k-5" width="48.6" height="48.6" x="233.05806" y="20.95632" transform=""></rect>
+    <text class="t" x="257.35806" y="49.25632" transform=""><tspan dy="-7" x="257.35806">$</tspan><tspan dy="14" x="257.35806">4</tspan></text>
+    <rect style="" class="o o-5" data-id="5" width="48.6" height="48.6" x="233.05806" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-6" width="48.6" height="48.6" x="284.49306" y="24.39207" transform=""></rect>
+    <text class="t" x="308.79306" y="52.69207" transform=""><tspan dy="-7" x="308.79306">%</tspan><tspan dy="14" x="308.79306">5</tspan></text>
+    <rect style="" class="o o-6" data-id="6" width="48.6" height="48.6" x="284.49306" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-7" width="48.6" height="48.6" x="335.92806" y="24.39207" transform=""></rect>
+    <text class="t" x="360.22806" y="52.69207" transform="">[Back]</text>
+    <rect style="" class="o o-7" data-id="7" width="48.6" height="48.6" x="335.92806" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-8" width="72.9" height="48.6" x="2.30931" y="80.96382" transform=""></rect>
+    <text class="t" x="38.75931" y="109.26382" transform="">[Del]</text>
+    <rect style="" class="o o-8" data-id="8" width="72.9" height="48.6" x="2.30931" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-9" width="48.6" height="48.6" x="78.75306" y="80.96382" transform=""></rect>
+    <text class="t" x="103.05306" y="109.26382" transform=""><tspan dy="-7" x="103.05306">"</tspan><tspan dy="14" x="103.05306">'</tspan></text>
+    <rect style="" class="o o-9" data-id="9" width="48.6" height="48.6" x="78.75306" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-10" width="48.6" height="48.6" x="130.18806" y="72.39132" transform=""></rect>
+    <text class="t" x="154.48806" y="100.69132" transform=""><tspan dy="-7" x="154.48806">&lt;</tspan><tspan dy="14" x="154.48806">,</tspan></text>
+    <rect style="" class="o o-10" data-id="10" width="48.6" height="48.6" x="130.18806" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-11" width="48.6" height="48.6" x="181.62306" y="68.07753" transform=""></rect>
+    <text class="t" x="205.92306" y="96.37753" transform=""><tspan dy="-7" x="205.92306">&gt;</tspan><tspan dy="14" x="205.92306">.</tspan></text>
+    <rect style="" class="o o-11" data-id="11" width="48.6" height="48.6" x="181.62306" y="68.07753" transform=""></rect>
+    <rect style="" class="k k-12" width="48.6" height="48.6" x="233.05806" y="72.39132" transform=""></rect>
+    <text class="t" x="257.35806" y="100.69132" transform=""><tspan dy="-7" x="257.35806">P</tspan><tspan dy="14" x="257.35806">p</tspan></text>
+    <rect style="" class="o o-12" data-id="12" width="48.6" height="48.6" x="233.05806" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-13" width="48.6" height="48.6" x="284.49306" y="75.82032" transform=""></rect>
+    <text class="t" x="308.79306" y="104.12032" transform=""><tspan dy="-7" x="308.79306">Y</tspan><tspan dy="14" x="308.79306">y</tspan></text>
+    <rect style="" class="o o-13" data-id="13" width="48.6" height="48.6" x="284.49306" y="75.82032" transform=""></rect>
+    <rect style="" class="k k-14" width="48.6" height="72.9" x="335.92806" y="76.52907" transform=""></rect>
+    <text class="t" x="360.22806" y="116.97907" transform="">{Pad}</text>
+    <rect style="" class="o o-14" data-id="14" width="48.6" height="72.9" x="335.92806" y="76.52907" transform=""></rect>
+    <rect style="" class="k k-15" width="72.9" height="48.6" x="2.30931" y="132.39882" transform=""></rect>
+    <text class="t" x="38.75931" y="160.69882" transform="">[CapsLk]</text>
+    <rect style="" class="o o-15" data-id="15" width="72.9" height="48.6" x="2.30931" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-16" width="48.6" height="48.6" x="78.75306" y="132.39882" transform=""></rect>
+    <text class="t" x="103.05306" y="160.69882" transform=""><tspan dy="-7" x="103.05306">A</tspan><tspan dy="14" x="103.05306">a</tspan></text>
+    <rect style="" class="o o-16" data-id="16" width="48.6" height="48.6" x="78.75306" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-17" width="48.6" height="48.6" x="130.18806" y="123.82632" transform=""></rect>
+    <text class="t" x="154.48806" y="152.12632" transform=""><tspan dy="-7" x="154.48806">O</tspan><tspan dy="14" x="154.48806">o</tspan></text>
+    <rect style="" class="o o-17" data-id="17" width="48.6" height="48.6" x="130.18806" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-18" width="48.6" height="48.6" x="181.62306" y="119.51253" transform=""></rect>
+    <text class="t" x="205.92306" y="147.81253" transform=""><tspan dy="-7" x="205.92306">E</tspan><tspan dy="14" x="205.92306">e</tspan></text>
+    <rect style="" class="o o-18" data-id="18" width="48.6" height="48.6" x="181.62306" y="119.51253" transform=""></rect>
+    <rect style="" class="k k-19" width="48.6" height="48.6" x="233.05806" y="123.82632" transform=""></rect>
+    <text class="t" x="257.35806" y="152.12632" transform=""><tspan dy="-7" x="257.35806">U</tspan><tspan dy="14" x="257.35806">u</tspan></text>
+    <rect style="" class="o o-19" data-id="19" width="48.6" height="48.6" x="233.05806" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-20" width="48.6" height="48.6" x="284.49306" y="127.25532" transform=""></rect>
+    <text class="t" x="308.79306" y="155.55532" transform=""><tspan dy="-7" x="308.79306">I</tspan><tspan dy="14" x="308.79306">i</tspan></text>
+    <rect style="" class="o o-20" data-id="20" width="48.6" height="48.6" x="284.49306" y="127.25532" transform=""></rect>
+    <text class="t" x="308.79306" y="155.55532" transform=""><tspan dy="-7" x="308.79306">I</tspan><tspan dy="14" x="308.79306">i</tspan></text>
+    <rect style="" class="k k-21" width="72.9" height="48.6" x="2.30931" y="183.83382" transform=""></rect>
+    <text class="t" x="38.75931" y="212.13382" transform="">[LShift]</text>
+    <rect style="" class="o o-21" data-id="21" width="72.9" height="48.6" x="2.30931" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-22" width="48.6" height="48.6" x="78.75306" y="183.83382" transform=""></rect>
+    <text class="t" x="103.05306" y="212.13382" transform=""><tspan dy="-7" x="103.05306">:</tspan><tspan dy="14" x="103.05306">;</tspan></text>
+    <rect style="" class="o o-22" data-id="22" width="48.6" height="48.6" x="78.75306" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-23" width="48.6" height="48.6" x="130.18806" y="175.26132" transform=""></rect>
+    <text class="t" x="154.48806" y="203.56132" transform=""><tspan dy="-7" x="154.48806">Q</tspan><tspan dy="14" x="154.48806">q</tspan></text>
+    <rect style="" class="o o-23" data-id="23" width="48.6" height="48.6" x="130.18806" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-24" width="48.6" height="48.6" x="181.62306" y="170.94753" transform=""></rect>
+    <text class="t" x="205.92306" y="199.24753" transform=""><tspan dy="-7" x="205.92306">J</tspan><tspan dy="14" x="205.92306">j</tspan></text>
+    <rect style="" class="o o-24" data-id="24" width="48.6" height="48.6" x="181.62306" y="170.94753" transform=""></rect>
+    <rect style="" class="k k-25" width="48.6" height="48.6" x="233.05806" y="175.26132" transform=""></rect>
+    <text class="t" x="257.35806" y="203.56132" transform=""><tspan dy="-7" x="257.35806">K</tspan><tspan dy="14" x="257.35806">k</tspan></text>
+    <rect style="" class="o o-25" data-id="25" width="48.6" height="48.6" x="233.05806" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-26" width="48.6" height="48.6" x="284.49306" y="178.69032" transform=""></rect>
+    <text class="t" x="308.79306" y="206.99032" transform=""><tspan dy="-7" x="308.79306">X</tspan><tspan dy="14" x="308.79306">x</tspan></text>
+    <rect style="" class="o o-26" data-id="26" width="48.6" height="48.6" x="284.49306" y="178.69032" transform=""></rect>
+    <rect style="" class="k k-27" width="48.6" height="72.9" x="335.92806" y="153.68157" transform=""></rect>
+    <text class="t" x="360.22806" y="194.13157" transform="">{Media}</text>
+    <rect style="" class="o o-27" data-id="27" width="48.6" height="72.9" x="335.92806" y="153.68157" transform=""></rect>
+    <rect style="" class="k k-28" width="48.6" height="48.6" x="27.31806" y="235.26882" transform=""></rect>
+    <text class="t" x="51.61806" y="263.56882" transform="">[LCtrl]</text>
+    <rect style="" class="o o-28" data-id="28" width="48.6" height="48.6" x="27.31806" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-29" width="48.6" height="48.6" x="78.75306" y="235.26882" transform=""></rect>
+    <text class="t" x="103.05306" y="263.56882" transform="">[LSup]</text>
+    <rect style="" class="o o-29" data-id="29" width="48.6" height="48.6" x="78.75306" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-30" width="48.6" height="48.6" x="130.18806" y="226.69632" transform=""></rect>
+    <text class="t" x="154.48806" y="254.99632" transform=""><tspan dy="-7">[Intl3]</tspan><tspan class="t-x" dy="14" x="149">(カナ: ー)</tspan></text>
+    <rect style="" class="o o-30" data-id="30" width="48.6" height="48.6" x="130.18806" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-31" width="48.6" height="48.6" x="181.62306" y="222.38253" transform=""></rect>
+    <text class="t" x="205.92306" y="250.68253" transform=""><tspan dy="-7">[Intl5]</tspan><tspan class="t-x" dy="14" x="201">カナ/かな</tspan></text>
+    <rect style="" class="o o-31" data-id="31" width="48.6" height="48.6" x="181.62306" y="222.38253" transform=""></rect>
+    <rect style="" class="k k-32" width="48.6" height="48.6" x="233.05806" y="226.69632" transform=""></rect>
+    <text class="t" x="257.35806" y="254.99632" transform="">[LAlt]</text>
+    <rect style="" class="o o-32" data-id="32" width="48.6" height="48.6" x="233.05806" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-33" width="48.6" height="48.6" x="391.08015" y="213.71391" transform="rotate(25,415.38015,238.01391)"></rect>
+    <text class="t" x="415.38015" y="242.01391" transform="rotate(25,415.38015,238.01391)">[Menu]</text>
+    <rect style="" class="o o-33" data-id="33" width="48.6" height="48.6" x="391.08015" y="213.71391" transform="rotate(25,415.38015,238.01391)"></rect>
+    <rect style="" class="k k-34" width="48.6" height="48.6" x="437.69403" y="235.44702" transform="rotate(25,461.99403,259.74702)"></rect>
+    <text class="t" x="461.99403" y="263.74702" transform="rotate(25,461.99403,259.74702)">↑</text>
+    <rect style="" class="o o-34" data-id="34" width="48.6" height="48.6" x="437.69403" y="235.44702" transform="rotate(25,461.99403,259.74702)"></rect>
+    <rect style="" class="k k-37" width="48.6" height="48.6" x="415.96092" y="282.0609" transform="rotate(25,440.26092,306.3609)"></rect>
+    <text class="t" x="440.26092" y="310.3609" transform="rotate(25,440.26092,306.3609)">↓</text>
+    <rect style="" class="o o-37" data-id="37" width="48.6" height="48.6" x="415.96092" y="282.0609" transform="rotate(25,440.26092,306.3609)"></rect>
+    <rect style="" class="k k-38" width="48.6" height="97.2" x="311.8635" y="237.59838" transform="rotate(25,336.1635,286.19838)"></rect>
+    <text class="t" x="336.1635" y="290.19838" transform="rotate(25,336.1635,286.19838)">[Space]</text>
+    <rect style="" class="o o-38" data-id="38" width="48.6" height="97.2" x="311.8635" y="237.59838" transform="rotate(25,336.1635,286.19838)"></rect>
+    <rect style="" class="k k-39" width="48.6" height="97.2" x="358.47738" y="259.33824" transform="rotate(25,382.77738,307.93824)"></rect>
+    <text class="t" x="382.77738" y="311.93824" transform="rotate(25,382.77738,307.93824)">[Bkspc]</text>
+    <rect style="" class="o o-39" data-id="39" width="48.6" height="97.2" x="358.47738" y="259.33824" transform="rotate(25,382.77738,307.93824)"></rect>
+    <rect style="" class="k k-40" width="48.6" height="48.6" x="394.22106" y="328.68153" transform="rotate(25,418.52106,352.98153)"></rect>
+    <text class="t" x="418.52106" y="356.98153" transform="rotate(25,418.52106,352.98153)"><tspan dy="-7">←</tspan><tspan class="t-h" dy="14" x="418">{TPad}</tspan></text>
+    <rect style="" class="o o-40" data-id="40" width="48.6" height="48.6" x="394.22106" y="328.68153" transform="rotate(25,418.52106,352.98153)"></rect>
+    <rect style="" class="k k-47" width="72.9" height="48.6" x="915.69069" y="29.53557" transform=""></rect>
+    <text class="t" x="952.14069" y="57.83557" transform=""><tspan dy="-15" x="952.14069">+</tspan><tspan dy="15" x="952.14069">=</tspan><tspan class="t-h" dy="15" x="952.14069">{TMedia}</tspan></text>
+    <rect style="" class="o o-47" data-id="47" width="72.9" height="48.6" x="915.69069" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-46" width="48.6" height="48.6" x="863.54694" y="29.53557" transform=""></rect>
+    <text class="t" x="887.84694" y="57.83557" transform=""><tspan dy="-7" x="887.84694">)</tspan><tspan dy="14" x="887.84694">0</tspan></text>
+    <rect style="" class="o o-46" data-id="46" width="48.6" height="48.6" x="863.54694" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-45" width="48.6" height="48.6" x="812.11194" y="20.95632" transform=""></rect>
+    <text class="t" x="836.41194" y="49.25632" transform=""><tspan dy="-7" x="836.41194">(</tspan><tspan dy="14" x="836.41194">9</tspan></text>
+    <rect style="" class="o o-45" data-id="45" width="48.6" height="48.6" x="812.11194" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-44" width="48.6" height="48.6" x="760.67694" y="16.64253" transform=""></rect>
+    <text class="t" x="784.97694" y="44.94253" transform=""><tspan dy="-7" x="784.97694">*</tspan><tspan dy="14" x="784.97694">8</tspan></text>
+    <rect style="" class="o o-44" data-id="44" width="48.6" height="48.6" x="760.67694" y="16.64253" transform=""></rect>
+    <rect style="" class="k k-43" width="48.6" height="48.6" x="709.24194" y="20.95632" transform=""></rect>
+    <text class="t" x="733.54194" y="49.25632" transform=""><tspan dy="-7" x="733.54194">&amp;</tspan><tspan dy="14" x="733.54194">7</tspan></text>
+    <rect style="" class="o o-43" data-id="43" width="48.6" height="48.6" x="709.24194" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-42" width="48.6" height="48.6" x="657.80694" y="24.39207" transform=""></rect>
+    <text class="t" x="682.10694" y="52.69207" transform=""><tspan dy="-7" x="682.10694">^</tspan><tspan dy="14" x="682.10694">6</tspan></text>
+    <rect style="" class="o o-42" data-id="42" width="48.6" height="48.6" x="657.80694" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-41" width="48.6" height="48.6" x="606.37194" y="24.39207" transform=""></rect>
+    <text class="t" x="630.67194" y="52.69207" transform="">[Fwd]</text>
+    <rect style="" class="o o-41" data-id="41" width="48.6" height="48.6" x="606.37194" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-54" width="72.9" height="48.6" x="915.69069" y="80.96382" transform=""></rect>
+    <text class="t" x="952.14069" y="109.26382" transform=""><tspan dy="-7" x="952.14069">?</tspan><tspan dy="14" x="952.14069">/</tspan></text>
+    <rect style="" class="o o-54" data-id="54" width="72.9" height="48.6" x="915.69069" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-53" width="48.6" height="48.6" x="863.54694" y="80.96382" transform=""></rect>
+    <text class="t" x="887.84694" y="109.26382" transform=""><tspan dy="-7" x="887.84694">L</tspan><tspan dy="14" x="887.84694">l</tspan></text>
+    <rect style="" class="o o-53" data-id="53" width="48.6" height="48.6" x="863.54694" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-52" width="48.6" height="48.6" x="812.11194" y="72.39132" transform=""></rect>
+    <text class="t" x="836.41194" y="100.69132" transform=""><tspan dy="-7" x="836.41194">R</tspan><tspan dy="14" x="836.41194">r</tspan></text>
+    <rect style="" class="o o-52" data-id="52" width="48.6" height="48.6" x="812.11194" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-51" width="48.6" height="48.6" x="760.67694" y="68.07753" transform=""></rect>
+    <text class="t" x="784.97694" y="96.37753" transform=""><tspan dy="-7" x="784.97694">C</tspan><tspan dy="14" x="784.97694">c</tspan></text>
+    <rect style="" class="o o-51" data-id="51" width="48.6" height="48.6" x="760.67694" y="68.07753" transform=""></rect>
+    <rect style="" class="k k-50" width="48.6" height="48.6" x="709.24194" y="72.39132" transform=""></rect>
+    <text class="t" x="733.54194" y="100.69132" transform=""><tspan dy="-7" x="733.54194">G</tspan><tspan dy="14" x="733.54194">g</tspan></text>
+    <rect style="" class="o o-50" data-id="50" width="48.6" height="48.6" x="709.24194" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-49" width="48.6" height="48.6" x="657.80694" y="75.82032" transform=""></rect>
+    <text class="t" x="682.10694" y="104.12032" transform=""><tspan dy="-7" x="682.10694">F</tspan><tspan dy="14" x="682.10694">f</tspan></text>
+    <rect style="" class="o o-49" data-id="49" width="48.6" height="48.6" x="657.80694" y="75.82032" transform=""></rect>
+    <rect style="" class="k k-48" width="48.6" height="72.9" x="606.37194" y="76.52907" transform=""></rect>
+    <text class="t" x="630.67194" y="116.97907" transform="">{Pad}</text>
+    <rect style="" class="o o-48" data-id="48" width="48.6" height="72.9" x="606.37194" y="76.52907" transform=""></rect>
+    <rect style="" class="k k-60" width="72.9" height="48.6" x="915.69069" y="132.39882" transform=""></rect>
+    <text class="t" x="952.14069" y="160.69882" transform=""><tspan dy="-7" x="952.14069">_</tspan><tspan dy="14" x="952.14069">-</tspan></text>
+    <rect style="" class="o o-60" data-id="60" width="72.9" height="48.6" x="915.69069" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-59" width="48.6" height="48.6" x="863.54694" y="132.39882" transform=""></rect>
+    <text class="t" x="887.84694" y="160.69882" transform=""><tspan dy="-7" x="887.84694">S</tspan><tspan dy="14" x="887.84694">s</tspan></text>
+    <rect style="" class="o o-59" data-id="59" width="48.6" height="48.6" x="863.54694" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-58" width="48.6" height="48.6" x="812.11194" y="123.82632" transform=""></rect>
+    <text class="t" x="836.41194" y="152.12632" transform=""><tspan dy="-7" x="836.41194">N</tspan><tspan dy="14" x="836.41194">n</tspan></text>
+    <rect style="" class="o o-58" data-id="58" width="48.6" height="48.6" x="812.11194" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-57" width="48.6" height="48.6" x="760.67694" y="119.51253" transform=""></rect>
+    <text class="t" x="784.97694" y="147.81253" transform=""><tspan dy="-7" x="784.97694">T</tspan><tspan dy="14" x="784.97694">t</tspan></text>
+    <rect style="" class="o o-57" data-id="57" width="48.6" height="48.6" x="760.67694" y="119.51253" transform=""></rect>
+    <rect style="" class="k k-56" width="48.6" height="48.6" x="709.24194" y="123.82632" transform=""></rect>
+    <text class="t" x="733.54194" y="152.12632" transform=""><tspan dy="-7" x="733.54194">H</tspan><tspan dy="14" x="733.54194">h</tspan></text>
+    <rect style="" class="o o-56" data-id="56" width="48.6" height="48.6" x="709.24194" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-55" width="48.6" height="48.6" x="657.80694" y="127.25532" transform=""></rect>
+    <text class="t" x="682.10694" y="155.55532" transform=""><tspan dy="-7" x="682.10694">D</tspan><tspan dy="14" x="682.10694">d</tspan></text>
+    <rect style="" class="o o-55" data-id="55" width="48.6" height="48.6" x="657.80694" y="127.25532" transform=""></rect>
+    <rect style="" class="k k-67" width="72.9" height="48.6" x="915.69069" y="183.83382" transform=""></rect>
+    <text class="t" x="952.14069" y="212.13382" transform=""><tspan dy="-7">ろ</tspan><tspan class="t-h" dy="14" x="952">[RShift]</tspan></text>
+    <rect style="" class="o o-67" data-id="67" width="72.9" height="48.6" x="915.69069" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-66" width="48.6" height="48.6" x="863.54694" y="183.83382" transform=""></rect>
+    <text class="t" x="887.84694" y="212.13382" transform=""><tspan dy="-7" x="887.84694">Z</tspan><tspan dy="14" x="887.84694">z</tspan></text>
+    <rect style="" class="o o-66" data-id="66" width="48.6" height="48.6" x="863.54694" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-65" width="48.6" height="48.6" x="812.11194" y="175.26132" transform=""></rect>
+    <text class="t" x="836.41194" y="203.56132" transform=""><tspan dy="-7" x="836.41194">V</tspan><tspan dy="14" x="836.41194">v</tspan></text>
+    <rect style="" class="o o-65" data-id="65" width="48.6" height="48.6" x="812.11194" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-64" width="48.6" height="48.6" x="760.67694" y="170.94753" transform=""></rect>
+    <text class="t" x="784.97694" y="199.24753" transform=""><tspan dy="-7" x="784.97694">W</tspan><tspan dy="14" x="784.97694">w</tspan></text>
+    <rect style="" class="o o-64" data-id="64" width="48.6" height="48.6" x="760.67694" y="170.94753" transform=""></rect>
+    <rect style="" class="k k-63" width="48.6" height="48.6" x="709.24194" y="175.26132" transform=""></rect>
+    <text class="t" x="733.54194" y="203.56132" transform=""><tspan dy="-7" x="733.54194">M</tspan><tspan dy="14" x="733.54194">m</tspan></text>
+    <rect style="" class="o o-63" data-id="63" width="48.6" height="48.6" x="709.24194" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-62" width="48.6" height="48.6" x="657.80694" y="178.69032" transform=""></rect>
+    <text class="t" x="682.10694" y="206.99032" transform=""><tspan dy="-7" x="682.10694">B</tspan><tspan dy="14" x="682.10694">b</tspan></text>
+    <rect style="" class="o o-62" data-id="62" width="48.6" height="48.6" x="657.80694" y="178.69032" transform=""></rect>
+    <rect style="" class="k k-61" width="48.6" height="72.9" x="606.37194" y="153.68157" transform=""></rect>
+    <text class="t" x="630.67194" y="194.13157" transform="">[Lang3]</text>
+    <rect style="" class="o o-61" data-id="61" width="48.6" height="72.9" x="606.37194" y="153.68157" transform=""></rect>
+    <rect style="" class="k k-72" width="48.6" height="48.6" x="914.98194" y="235.26882" transform=""></rect>
+    <text class="t" x="939.28194" y="263.56882" transform=""><tspan dy="-15" x="939.28194">|</tspan><tspan dy="15" x="939.28194">\</tspan><tspan class="t-h" dy="15" x="939.28194">[RCtrl]</tspan></text>
+    <rect style="" class="o o-72" data-id="72" width="48.6" height="48.6" x="914.98194" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-71" width="48.6" height="48.6" x="863.54694" y="235.26882" transform=""></rect>
+    <text class="t" x="887.84694" y="263.56882" transform=""><tspan dy="-7" x="887.84694">}</tspan><tspan dy="14" x="887.84694">]</tspan></text>
+    <rect style="" class="o o-71" data-id="71" width="48.6" height="48.6" x="863.54694" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-70" width="48.6" height="48.6" x="812.11194" y="226.69632" transform=""></rect>
+    <text class="t" x="836.41194" y="254.99632" transform=""><tspan dy="-7" x="836.41194">{</tspan><tspan dy="14" x="836.41194">[</tspan></text>
+    <rect style="" class="o o-70" data-id="70" width="48.6" height="48.6" x="812.11194" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-69" width="48.6" height="48.6" x="760.67694" y="222.38253" transform=""></rect>
+    <text class="t" x="784.97694" y="250.68253" transform=""><tspan dy="-7">¥</tspan><tspan dy="14" x="784.97694">€</tspan></text>
+    <rect style="" class="o o-69" data-id="69" width="48.6" height="48.6" x="760.67694" y="222.38253" transform=""></rect>
+    <rect style="" class="k k-68" width="48.6" height="48.6" x="709.24194" y="226.69632" transform=""></rect>
+    <text class="t" x="733.54194" y="254.99632" transform=""><tspan dy="-7">[RSup]</tspan><tspan class="t-x" dy="14" x="727">compose</tspan></text>
+    <rect style="" class="o o-68" data-id="68" width="48.6" height="48.6" x="709.24194" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-74" width="48.6" height="48.6" x="551.21985" y="213.71391" transform="rotate(-25,575.51985,238.01391)"></rect>
+    <text class="t" x="575.51985" y="242.01391" transform="rotate(-25,575.51985,238.01391)">[Esc]</text>
+    <rect style="" class="o o-74" data-id="74" width="48.6" height="48.6" x="551.21985" y="213.71391" transform="rotate(-25,575.51985,238.01391)"></rect>
+    <rect style="" class="k k-73" width="48.6" height="48.6" x="504.60597" y="235.44702" transform="rotate(-25,528.90597,259.74702)"></rect>
+    <text class="t" x="528.90597" y="263.74702" transform="rotate(-25,528.90597,259.74702)">[PgUp]</text>
+    <rect style="" class="o o-73" data-id="73" width="48.6" height="48.6" x="504.60597" y="235.44702" transform="rotate(-25,528.90597,259.74702)"></rect>
+    <rect style="" class="k k-75" width="48.6" height="48.6" x="526.33908" y="282.0609" transform="rotate(-25,550.63908,306.3609)"></rect>
+    <text class="t" x="550.63908" y="310.3609" transform="rotate(-25,550.63908,306.3609)">[PgDn]</text>
+    <rect style="" class="o o-75" data-id="75" width="48.6" height="48.6" x="526.33908" y="282.0609" transform="rotate(-25,550.63908,306.3609)"></rect>
+    <rect style="" class="k k-80" width="48.6" height="97.2" x="630.4365" y="237.59838" transform="rotate(-25,654.7365,286.19838)"></rect>
+    <text class="t" x="654.7365" y="290.19838" transform="rotate(-25,654.7365,286.19838)">↵</text>
+    <rect style="" class="o o-80" data-id="80" width="48.6" height="97.2" x="630.4365" y="237.59838" transform="rotate(-25,654.7365,286.19838)"></rect>
+    <rect style="" class="k k-79" width="48.6" height="97.2" x="583.82262" y="259.33824" transform="rotate(-25,608.12262,307.93824)"></rect>
+    <text class="t" x="608.12262" y="311.93824" transform="rotate(-25,608.12262,307.93824)">[Tab]</text>
+    <rect style="" class="o o-79" data-id="79" width="48.6" height="97.2" x="583.82262" y="259.33824" transform="rotate(-25,608.12262,307.93824)"></rect>
+    <rect style="" class="k k-78" width="48.6" height="48.6" x="548.07894" y="328.68153" transform="rotate(-25,572.37894,352.98153)"></rect>
+    <text class="t" x="572.37894" y="356.98153" transform="rotate(-25,572.37894,352.98153)"><tspan dy="-7">→</tspan><tspan class="t-h" dy="14" x="571">{TPad}</tspan></text>
+    <rect style="" class="o o-78" data-id="78" width="48.6" height="48.6" x="548.07894" y="328.68153" transform="rotate(-25,572.37894,352.98153)"></rect>
+  </g>
+
+
+  <g transform="translate(0, 500)">
+    <rect style="" class="k k-1" width="72.9" height="48.6" x="2.30931" y="29.53557" transform=""></rect>
+    <text class="t" x="38.75931" y="57.83557" transform="">[Esc]</text>
+    <rect style="" class="o o-1" data-id="1" width="72.9" height="48.6" x="2.30931" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-2" width="48.6" height="48.6" x="78.75306" y="29.53557" transform=""></rect>
+    <text class="t" x="103.05306" y="57.83557" transform="">F1</text>
+    <rect style="" class="o o-2" data-id="2" width="48.6" height="48.6" x="78.75306" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-3" width="48.6" height="48.6" x="130.18806" y="20.95632" transform=""></rect>
+    <text class="t" x="154.48806" y="49.25632" transform="">F2</text>
+    <rect style="" class="o o-3" data-id="3" width="48.6" height="48.6" x="130.18806" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-4" width="48.6" height="48.6" x="181.62306" y="16.64253" transform=""></rect>
+    <text class="t" x="205.92306" y="44.94253" transform="">F3</text>
+    <rect style="" class="o o-4" data-id="4" width="48.6" height="48.6" x="181.62306" y="16.64253" transform=""></rect>
+    <rect style="" class="k k-5" width="48.6" height="48.6" x="233.05806" y="20.95632" transform=""></rect>
+    <text class="t" x="257.35806" y="49.25632" transform="">F4</text>
+    <rect style="" class="o o-5" data-id="5" width="48.6" height="48.6" x="233.05806" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-6" width="48.6" height="48.6" x="284.49306" y="24.39207" transform=""></rect>
+    <text class="t" x="308.79306" y="52.69207" transform="">F5</text>
+    <rect style="" class="o o-6" data-id="6" width="48.6" height="48.6" x="284.49306" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-7" width="48.6" height="48.6" x="335.92806" y="24.39207" transform=""></rect>
+    <text class="t" x="360.22806" y="52.69207" transform="">F11</text>
+    <rect style="" class="o o-7" data-id="7" width="48.6" height="48.6" x="335.92806" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-8" width="72.9" height="48.6" x="2.30931" y="80.96382" transform=""></rect>
+    <text class="t" x="38.75931" y="109.26382" transform="">∅</text>
+    <rect style="" class="o o-8" data-id="8" width="72.9" height="48.6" x="2.30931" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-9" width="48.6" height="48.6" x="78.75306" y="80.96382" transform=""></rect>
+    <text class="t" x="103.05306" y="109.26382" transform=""></text>
+    <rect style="" class="o o-9" data-id="9" width="48.6" height="48.6" x="78.75306" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-10" width="48.6" height="48.6" x="130.18806" y="72.39132" transform=""></rect>
+    <text class="t" x="154.48806" y="100.69132" transform=""></text>
+    <rect style="" class="o o-10" data-id="10" width="48.6" height="48.6" x="130.18806" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-11" width="48.6" height="48.6" x="181.62306" y="68.07753" transform=""></rect>
+    <text class="t" x="205.92306" y="96.37753" transform="">↑</text>
+    <rect style="" class="o o-11" data-id="11" width="48.6" height="48.6" x="181.62306" y="68.07753" transform=""></rect>
+    <rect style="" class="k k-12" width="48.6" height="48.6" x="233.05806" y="72.39132" transform=""></rect>
+    <text class="t" x="257.35806" y="100.69132" transform="">[PgUp]</text>
+    <rect style="" class="o o-12" data-id="12" width="48.6" height="48.6" x="233.05806" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-13" width="48.6" height="48.6" x="284.49306" y="75.82032" transform=""></rect>
+    <text class="t" x="308.79306" y="104.12032" transform=""></text>
+    <rect style="" class="o o-13" data-id="13" width="48.6" height="48.6" x="284.49306" y="75.82032" transform=""></rect>
+    <rect style="" class="k k-14" width="48.6" height="72.9" x="335.92806" y="76.52907" transform=""></rect>
+    <text class="t" x="360.22806" y="116.97907" transform="">∅</text>
+    <rect style="" class="o o-14" data-id="14" width="48.6" height="72.9" x="335.92806" y="76.52907" transform=""></rect>
+    <rect style="" class="k k-15" width="72.9" height="48.6" x="2.30931" y="132.39882" transform=""></rect>
+    <text class="t" x="38.75931" y="160.69882" transform="">∅</text>
+    <rect style="" class="o o-15" data-id="15" width="72.9" height="48.6" x="2.30931" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-16" width="48.6" height="48.6" x="78.75306" y="132.39882" transform=""></rect>
+    <text class="t" x="103.05306" y="160.69882" transform="">[Home]</text>
+    <rect style="" class="o o-16" data-id="16" width="48.6" height="48.6" x="78.75306" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-17" width="48.6" height="48.6" x="130.18806" y="123.82632" transform=""></rect>
+    <text class="t" x="154.48806" y="152.12632" transform="">←</text>
+    <rect style="" class="o o-17" data-id="17" width="48.6" height="48.6" x="130.18806" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-18" width="48.6" height="48.6" x="181.62306" y="119.51253" transform=""></rect>
+    <text class="t" x="205.92306" y="147.81253" transform="">↓</text>
+    <rect style="" class="o o-18" data-id="18" width="48.6" height="48.6" x="181.62306" y="119.51253" transform=""></rect>
+    <rect style="" class="k k-19" width="48.6" height="48.6" x="233.05806" y="123.82632" transform=""></rect>
+    <text class="t" x="257.35806" y="152.12632" transform="">→</text>
+    <rect style="" class="o o-19" data-id="19" width="48.6" height="48.6" x="233.05806" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-20" width="48.6" height="48.6" x="284.49306" y="127.25532" transform=""></rect>
+    <text class="t" x="308.79306" y="155.55532" transform="">[End]</text>
+    <rect style="" class="o o-20" data-id="20" width="48.6" height="48.6" x="284.49306" y="127.25532" transform=""></rect>
+    <rect style="" class="k k-21" width="72.9" height="48.6" x="2.30931" y="183.83382" transform=""></rect>
+    <text class="t" x="38.75931" y="212.13382" transform="">∅</text>
+    <rect style="" class="o o-21" data-id="21" width="72.9" height="48.6" x="2.30931" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-22" width="48.6" height="48.6" x="78.75306" y="183.83382" transform=""></rect>
+    <text class="t" x="103.05306" y="212.13382" transform=""></text>
+    <rect style="" class="o o-22" data-id="22" width="48.6" height="48.6" x="78.75306" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-23" width="48.6" height="48.6" x="130.18806" y="175.26132" transform=""></rect>
+    <text class="t" x="154.48806" y="203.56132" transform=""></text>
+    <rect style="" class="o o-23" data-id="23" width="48.6" height="48.6" x="130.18806" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-24" width="48.6" height="48.6" x="181.62306" y="170.94753" transform=""></rect>
+    <text class="t" x="205.92306" y="199.24753" transform=""></text>
+    <rect style="" class="o o-24" data-id="24" width="48.6" height="48.6" x="181.62306" y="170.94753" transform=""></rect>
+    <rect style="" class="k k-25" width="48.6" height="48.6" x="233.05806" y="175.26132" transform=""></rect>
+    <text class="t" x="257.35806" y="203.56132" transform="">[PgDn]</text>
+    <rect style="" class="o o-25" data-id="25" width="48.6" height="48.6" x="233.05806" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-26" width="48.6" height="48.6" x="284.49306" y="178.69032" transform=""></rect>
+    <text class="t" x="308.79306" y="206.99032" transform=""></text>
+    <rect style="" class="o o-26" data-id="26" width="48.6" height="48.6" x="284.49306" y="178.69032" transform=""></rect>
+    <rect style="" class="k k-27" width="48.6" height="72.9" x="335.92806" y="153.68157" transform=""></rect>
+    <text class="t" x="360.22806" y="194.13157" transform="">∅</text>
+    <rect style="" class="o o-27" data-id="27" width="48.6" height="72.9" x="335.92806" y="153.68157" transform=""></rect>
+    <rect style="" class="k k-28" width="48.6" height="48.6" x="27.31806" y="235.26882" transform=""></rect>
+    <text class="t" x="51.61806" y="263.56882" transform="">∅</text>
+    <rect style="" class="o o-28" data-id="28" width="48.6" height="48.6" x="27.31806" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-29" width="48.6" height="48.6" x="78.75306" y="235.26882" transform=""></rect>
+    <text class="t" x="103.05306" y="263.56882" transform="">∅</text>
+    <rect style="" class="o o-29" data-id="29" width="48.6" height="48.6" x="78.75306" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-30" width="48.6" height="48.6" x="130.18806" y="226.69632" transform=""></rect>
+    <text class="t" x="154.48806" y="254.99632" transform="">∅</text>
+    <rect style="" class="o o-30" data-id="30" width="48.6" height="48.6" x="130.18806" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-31" width="48.6" height="48.6" x="181.62306" y="222.38253" transform=""></rect>
+    <text class="t" x="205.92306" y="250.68253" transform="">∅</text>
+    <rect style="" class="o o-31" data-id="31" width="48.6" height="48.6" x="181.62306" y="222.38253" transform=""></rect>
+    <rect style="" class="k k-32" width="48.6" height="48.6" x="233.05806" y="226.69632" transform=""></rect>
+    <text class="t" x="257.35806" y="254.99632" transform="">∅</text>
+    <rect style="" class="o o-32" data-id="32" width="48.6" height="48.6" x="233.05806" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-33" width="48.6" height="48.6" x="391.08015" y="213.71391" transform="rotate(25,415.38015,238.01391)"></rect>
+    <text class="t" x="415.38015" y="242.01391" transform="rotate(25,415.38015,238.01391)">∅</text>
+    <rect style="" class="o o-33" data-id="33" width="48.6" height="48.6" x="391.08015" y="213.71391" transform="rotate(25,415.38015,238.01391)"></rect>
+    <rect style="" class="k k-34" width="48.6" height="48.6" x="437.69403" y="235.44702" transform="rotate(25,461.99403,259.74702)"></rect>
+    <text class="t" x="461.99403" y="263.74702" transform="rotate(25,461.99403,259.74702)">∅</text>
+    <rect style="" class="o o-34" data-id="34" width="48.6" height="48.6" x="437.69403" y="235.44702" transform="rotate(25,461.99403,259.74702)"></rect>
+    <rect style="" class="k k-37" width="48.6" height="48.6" x="415.96092" y="282.0609" transform="rotate(25,440.26092,306.3609)"></rect>
+    <text class="t" x="440.26092" y="310.3609" transform="rotate(25,440.26092,306.3609)">∅</text>
+    <rect style="" class="o o-37" data-id="37" width="48.6" height="48.6" x="415.96092" y="282.0609" transform="rotate(25,440.26092,306.3609)"></rect>
+    <rect style="" class="k k-38" width="48.6" height="97.2" x="311.8635" y="237.59838" transform="rotate(25,336.1635,286.19838)"></rect>
+    <text class="t" x="336.1635" y="290.19838" transform="rotate(25,336.1635,286.19838)">∅</text>
+    <rect style="" class="o o-38" data-id="38" width="48.6" height="97.2" x="311.8635" y="237.59838" transform="rotate(25,336.1635,286.19838)"></rect>
+    <rect style="" class="k k-39" width="48.6" height="97.2" x="358.47738" y="259.33824" transform="rotate(25,382.77738,307.93824)"></rect>
+    <text class="t" x="382.77738" y="311.93824" transform="rotate(25,382.77738,307.93824)">∅</text>
+    <rect style="" class="o o-39" data-id="39" width="48.6" height="97.2" x="358.47738" y="259.33824" transform="rotate(25,382.77738,307.93824)"></rect>
+    <rect style="" class="k k-40" width="48.6" height="48.6" x="394.22106" y="328.68153" transform="rotate(25,418.52106,352.98153)"></rect>
+    <text class="t" x="418.52106" y="356.98153" transform="rotate(25,418.52106,352.98153)">∅</text>
+    <rect style="" class="o o-40" data-id="40" width="48.6" height="48.6" x="394.22106" y="328.68153" transform="rotate(25,418.52106,352.98153)"></rect>
+    <rect style="" class="k k-47" width="72.9" height="48.6" x="915.69069" y="29.53557" transform=""></rect>
+    <text class="t" x="952.14069" y="57.83557" transform="">[PrtSc]</text>
+    <rect style="" class="o o-47" data-id="47" width="72.9" height="48.6" x="915.69069" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-46" width="48.6" height="48.6" x="863.54694" y="29.53557" transform=""></rect>
+    <text class="t" x="887.84694" y="57.83557" transform="">F10</text>
+    <rect style="" class="o o-46" data-id="46" width="48.6" height="48.6" x="863.54694" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-45" width="48.6" height="48.6" x="812.11194" y="20.95632" transform=""></rect>
+    <text class="t" x="836.41194" y="49.25632" transform="">F9</text>
+    <rect style="" class="o o-45" data-id="45" width="48.6" height="48.6" x="812.11194" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-44" width="48.6" height="48.6" x="760.67694" y="16.64253" transform=""></rect>
+    <text class="t" x="784.97694" y="44.94253" transform="">F8</text>
+    <rect style="" class="o o-44" data-id="44" width="48.6" height="48.6" x="760.67694" y="16.64253" transform=""></rect>
+    <rect style="" class="k k-43" width="48.6" height="48.6" x="709.24194" y="20.95632" transform=""></rect>
+    <text class="t" x="733.54194" y="49.25632" transform="">F7</text>
+    <rect style="" class="o o-43" data-id="43" width="48.6" height="48.6" x="709.24194" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-42" width="48.6" height="48.6" x="657.80694" y="24.39207" transform=""></rect>
+    <text class="t" x="682.10694" y="52.69207" transform="">F6</text>
+    <rect style="" class="o o-42" data-id="42" width="48.6" height="48.6" x="657.80694" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-41" width="48.6" height="48.6" x="606.37194" y="24.39207" transform=""></rect>
+    <text class="t" x="630.67194" y="52.69207" transform="">F12</text>
+    <rect style="" class="o o-41" data-id="41" width="48.6" height="48.6" x="606.37194" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-54" width="72.9" height="48.6" x="915.69069" y="80.96382" transform=""></rect>
+    <text class="t" x="952.14069" y="109.26382" transform="">/</text>
+    <rect style="" class="o o-54" data-id="54" width="72.9" height="48.6" x="915.69069" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-53" width="48.6" height="48.6" x="863.54694" y="80.96382" transform=""></rect>
+    <text class="t" x="887.84694" y="109.26382" transform="">*</text>
+    <rect style="" class="o o-53" data-id="53" width="48.6" height="48.6" x="863.54694" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-52" width="48.6" height="48.6" x="812.11194" y="72.39132" transform=""></rect>
+    <text class="t" x="836.41194" y="100.69132" transform=""><tspan dy="-7" x="836.41194">[PgUp]</tspan><tspan dy="14" x="836.41194">9</tspan></text>
+    <rect style="" class="o o-52" data-id="52" width="48.6" height="48.6" x="812.11194" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-51" width="48.6" height="48.6" x="760.67694" y="68.07753" transform=""></rect>
+    <text class="t" x="784.97694" y="96.37753" transform=""><tspan dy="-7" x="784.97694">↑</tspan><tspan dy="14" x="784.97694">8</tspan></text>
+    <rect style="" class="o o-51" data-id="51" width="48.6" height="48.6" x="760.67694" y="68.07753" transform=""></rect>
+    <rect style="" class="k k-50" width="48.6" height="48.6" x="709.24194" y="72.39132" transform=""></rect>
+    <text class="t" x="733.54194" y="100.69132" transform=""><tspan dy="-7" x="733.54194">[Home]</tspan><tspan dy="14" x="733.54194">7</tspan></text>
+    <rect style="" class="o o-50" data-id="50" width="48.6" height="48.6" x="709.24194" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-49" width="48.6" height="48.6" x="657.80694" y="75.82032" transform=""></rect>
+    <text class="t" x="682.10694" y="104.12032" transform="">%</text>
+    <rect style="" class="o o-49" data-id="49" width="48.6" height="48.6" x="657.80694" y="75.82032" transform=""></rect>
+    <rect style="" class="k k-48" width="48.6" height="72.9" x="606.37194" y="76.52907" transform=""></rect>
+    <text class="t" x="630.67194" y="116.97907" transform="">∅</text>
+    <rect style="" class="o o-48" data-id="48" width="48.6" height="72.9" x="606.37194" y="76.52907" transform=""></rect>
+    <rect style="" class="k k-60" width="72.9" height="48.6" x="915.69069" y="132.39882" transform=""></rect>
+    <text class="t" x="952.14069" y="160.69882" transform="">-</text>
+    <rect style="" class="o o-60" data-id="60" width="72.9" height="48.6" x="915.69069" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-59" width="48.6" height="48.6" x="863.54694" y="132.39882" transform=""></rect>
+    <text class="t" x="887.84694" y="160.69882" transform="">+</text>
+    <rect style="" class="o o-59" data-id="59" width="48.6" height="48.6" x="863.54694" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-58" width="48.6" height="48.6" x="812.11194" y="123.82632" transform=""></rect>
+    <text class="t" x="836.41194" y="152.12632" transform=""><tspan dy="-7" x="836.41194">→</tspan><tspan dy="14" x="836.41194">6</tspan></text>
+    <rect style="" class="o o-58" data-id="58" width="48.6" height="48.6" x="812.11194" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-57" width="48.6" height="48.6" x="760.67694" y="119.51253" transform=""></rect>
+    <text class="t" x="784.97694" y="147.81253" transform="">5</text>
+    <rect style="" class="o o-57" data-id="57" width="48.6" height="48.6" x="760.67694" y="119.51253" transform=""></rect>
+    <rect style="" class="k k-56" width="48.6" height="48.6" x="709.24194" y="123.82632" transform=""></rect>
+    <text class="t" x="733.54194" y="152.12632" transform=""><tspan dy="-7" x="733.54194">←</tspan><tspan dy="14" x="733.54194">4</tspan></text>
+    <rect style="" class="o o-56" data-id="56" width="48.6" height="48.6" x="709.24194" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-55" width="48.6" height="48.6" x="657.80694" y="127.25532" transform=""></rect>
+    <text class="t" x="682.10694" y="155.55532" transform="">[Space]</text>
+    <rect style="" class="o o-55" data-id="55" width="48.6" height="48.6" x="657.80694" y="127.25532" transform=""></rect>
+    <rect style="" class="k k-67" width="72.9" height="48.6" x="915.69069" y="183.83382" transform=""></rect>
+    <text class="t" x="952.14069" y="212.13382" transform="">[RShift]</text>
+    <rect style="" class="o o-67" data-id="67" width="72.9" height="48.6" x="915.69069" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-66" width="48.6" height="48.6" x="863.54694" y="183.83382" transform=""></rect>
+    <text class="t" x="887.84694" y="212.13382" transform="">[Enter]</text>
+    <rect style="" class="o o-66" data-id="66" width="48.6" height="48.6" x="863.54694" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-65" width="48.6" height="48.6" x="812.11194" y="175.26132" transform=""></rect>
+    <text class="t" x="836.41194" y="203.56132" transform=""><tspan dy="-7" x="836.41194">[PgDn]</tspan><tspan dy="14" x="836.41194">3</tspan></text>
+    <rect style="" class="o o-65" data-id="65" width="48.6" height="48.6" x="812.11194" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-64" width="48.6" height="48.6" x="760.67694" y="170.94753" transform=""></rect>
+    <text class="t" x="784.97694" y="199.24753" transform=""><tspan dy="-7" x="784.97694">↓</tspan><tspan dy="14" x="784.97694">2</tspan></text>
+    <rect style="" class="o o-64" data-id="64" width="48.6" height="48.6" x="760.67694" y="170.94753" transform=""></rect>
+    <rect style="" class="k k-63" width="48.6" height="48.6" x="709.24194" y="175.26132" transform=""></rect>
+    <text class="t" x="733.54194" y="203.56132" transform=""><tspan dy="-7" x="733.54194">[End]</tspan><tspan dy="14" x="733.54194">1</tspan></text>
+    <rect style="" class="o o-63" data-id="63" width="48.6" height="48.6" x="709.24194" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-62" width="48.6" height="48.6" x="657.80694" y="178.69032" transform=""></rect>
+    <text class="t" x="682.10694" y="206.99032" transform="">,</text>
+    <rect style="" class="o o-62" data-id="62" width="48.6" height="48.6" x="657.80694" y="178.69032" transform=""></rect>
+    <rect style="" class="k k-61" width="48.6" height="72.9" x="606.37194" y="153.68157" transform=""></rect>
+    <text class="t" x="627" y="194.13157" transform="" style="font-size: 90%">[NumLk]</text>
+    <rect style="" class="o o-61" data-id="61" width="48.6" height="72.9" x="606.37194" y="153.68157" transform=""></rect>
+    <rect style="" class="k k-72" width="48.6" height="48.6" x="914.98194" y="235.26882" transform=""></rect>
+    <text class="t" x="939.28194" y="263.56882" transform="">[Bkspc]</text>
+    <rect style="" class="o o-72" data-id="72" width="48.6" height="48.6" x="914.98194" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-71" width="48.6" height="48.6" x="863.54694" y="235.26882" transform=""></rect>
+    <text class="t" x="887.84694" y="263.56882" transform="">=</text>
+    <rect style="" class="o o-71" data-id="71" width="48.6" height="48.6" x="863.54694" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-70" width="48.6" height="48.6" x="812.11194" y="226.69632" transform=""></rect>
+    <text class="t" x="836.41194" y="254.99632" transform=""><tspan dy="-7" x="836.41194">[Del]</tspan><tspan dy="14" x="836.41194">.</tspan></text>
+    <rect style="" class="o o-70" data-id="70" width="48.6" height="48.6" x="812.11194" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-69" width="48.6" height="48.6" x="760.67694" y="222.38253" transform=""></rect>
+    <text class="t" x="784.97694" y="250.68253" transform=""><tspan dy="-7" x="784.97694">[Ins]</tspan><tspan dy="14" x="784.97694">0</tspan></text>
+    <rect style="" class="o o-69" data-id="69" width="48.6" height="48.6" x="760.67694" y="222.38253" transform=""></rect>
+    <rect style="" class="k k-68" width="48.6" height="48.6" x="709.24194" y="226.69632" transform=""></rect>
+    <text class="t" x="733.54194" y="254.99632" transform=""><tspan dy="-7" x="733.54194">[Ins]</tspan><tspan dy="14" x="733.54194">0</tspan></text>
+    <rect style="" class="o o-68" data-id="68" width="48.6" height="48.6" x="709.24194" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-74" width="48.6" height="48.6" x="551.21985" y="213.71391" transform="rotate(-25,575.51985,238.01391)"></rect>
+    <text class="t" x="575.51985" y="242.01391" transform="rotate(-25,575.51985,238.01391)">∅</text>
+    <rect style="" class="o o-74" data-id="74" width="48.6" height="48.6" x="551.21985" y="213.71391" transform="rotate(-25,575.51985,238.01391)"></rect>
+    <rect style="" class="k k-73" width="48.6" height="48.6" x="504.60597" y="235.44702" transform="rotate(-25,528.90597,259.74702)"></rect>
+    <text class="t" x="528.90597" y="263.74702" transform="rotate(-25,528.90597,259.74702)">∅</text>
+    <rect style="" class="o o-73" data-id="73" width="48.6" height="48.6" x="504.60597" y="235.44702" transform="rotate(-25,528.90597,259.74702)"></rect>
+    <rect style="" class="k k-75" width="48.6" height="48.6" x="526.33908" y="282.0609" transform="rotate(-25,550.63908,306.3609)"></rect>
+    <text class="t" x="550.63908" y="310.3609" transform="rotate(-25,550.63908,306.3609)">∅</text>
+    <rect style="" class="o o-75" data-id="75" width="48.6" height="48.6" x="526.33908" y="282.0609" transform="rotate(-25,550.63908,306.3609)"></rect>
+    <rect style="" class="k k-80" width="48.6" height="97.2" x="630.4365" y="237.59838" transform="rotate(-25,654.7365,286.19838)"></rect>
+    <text class="t" x="654.7365" y="290.19838" transform="rotate(-25,654.7365,286.19838)">∅</text>
+    <rect style="" class="o o-80" data-id="80" width="48.6" height="97.2" x="630.4365" y="237.59838" transform="rotate(-25,654.7365,286.19838)"></rect>
+    <rect style="" class="k k-79" width="48.6" height="97.2" x="583.82262" y="259.33824" transform="rotate(-25,608.12262,307.93824)"></rect>
+    <text class="t" x="608.12262" y="311.93824" transform="rotate(-25,608.12262,307.93824)">∅</text>
+    <rect style="" class="o o-79" data-id="79" width="48.6" height="97.2" x="583.82262" y="259.33824" transform="rotate(-25,608.12262,307.93824)"></rect>
+    <rect style="" class="k k-78" width="48.6" height="48.6" x="548.07894" y="328.68153" transform="rotate(-25,572.37894,352.98153)"></rect>
+    <text class="t" x="572.37894" y="356.98153" transform="rotate(-25,572.37894,352.98153)">∅</text>
+    <rect style="" class="o o-78" data-id="78" width="48.6" height="48.6" x="548.07894" y="328.68153" transform="rotate(-25,572.37894,352.98153)"></rect>
+  </g>
+
+
+  <g transform="translate(0, 1000)">
+    <rect style="" class="k k-1" width="72.9" height="48.6" x="2.30931" y="29.53557" transform=""></rect>
+    <text class="t" x="38.75931" y="57.83557" transform="">[Acc0]</text>
+    <rect style="" class="o o-1" data-id="1" width="72.9" height="48.6" x="2.30931" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-2" width="48.6" height="48.6" x="78.75306" y="29.53557" transform=""></rect>
+    <text class="t" x="103.05306" y="57.83557" transform="">[Acc1]</text>
+    <rect style="" class="o o-2" data-id="2" width="48.6" height="48.6" x="78.75306" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-3" width="48.6" height="48.6" x="130.18806" y="20.95632" transform=""></rect>
+    <text class="t" x="154.48806" y="49.25632" transform="">[Acc2]</text>
+    <rect style="" class="o o-3" data-id="3" width="48.6" height="48.6" x="130.18806" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-4" width="48.6" height="48.6" x="181.62306" y="16.64253" transform=""></rect>
+    <text class="t" x="205.92306" y="44.94253" transform=""></text>
+    <rect style="" class="o o-4" data-id="4" width="48.6" height="48.6" x="181.62306" y="16.64253" transform=""></rect>
+    <rect style="" class="k k-5" width="48.6" height="48.6" x="233.05806" y="20.95632" transform=""></rect>
+    <text class="t" x="257.35806" y="49.25632" transform=""></text>
+    <rect style="" class="o o-5" data-id="5" width="48.6" height="48.6" x="233.05806" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-6" width="48.6" height="48.6" x="284.49306" y="24.39207" transform=""></rect>
+    <text class="t" x="308.79306" y="52.69207" transform=""></text>
+    <rect style="" class="o o-6" data-id="6" width="48.6" height="48.6" x="284.49306" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-7" width="48.6" height="48.6" x="335.92806" y="24.39207" transform=""></rect>
+    <text class="t" x="360.22806" y="52.69207" transform=""></text>
+    <rect style="" class="o o-7" data-id="7" width="48.6" height="48.6" x="335.92806" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-8" width="72.9" height="48.6" x="2.30931" y="80.96382" transform=""></rect>
+    <text class="t" x="38.75931" y="109.26382" transform=""></text>
+    <rect style="" class="o o-8" data-id="8" width="72.9" height="48.6" x="2.30931" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-9" width="48.6" height="48.6" x="78.75306" y="80.96382" transform=""></rect>
+    <text class="t" x="103.05306" y="109.26382" transform=""></text>
+    <rect style="" class="o o-9" data-id="9" width="48.6" height="48.6" x="78.75306" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-10" width="48.6" height="48.6" x="130.18806" y="72.39132" transform=""></rect>
+    <text class="t" x="154.48806" y="100.69132" transform="">[Wh←]</text>
+    <rect style="" class="o o-10" data-id="10" width="48.6" height="48.6" x="130.18806" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-11" width="48.6" height="48.6" x="181.62306" y="68.07753" transform=""></rect>
+    <text class="t" x="205.92306" y="96.37753" transform="">[Ms↑]</text>
+    <rect style="" class="o o-11" data-id="11" width="48.6" height="48.6" x="181.62306" y="68.07753" transform=""></rect>
+    <rect style="" class="k k-12" width="48.6" height="48.6" x="233.05806" y="72.39132" transform=""></rect>
+    <text class="t" x="257.35806" y="100.69132" transform="">[Wh→]</text>
+    <rect style="" class="o o-12" data-id="12" width="48.6" height="48.6" x="233.05806" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-13" width="48.6" height="48.6" x="284.49306" y="75.82032" transform=""></rect>
+    <text class="t" x="308.79306" y="104.12032" transform=""></text>
+    <rect style="" class="o o-13" data-id="13" width="48.6" height="48.6" x="284.49306" y="75.82032" transform=""></rect>
+    <rect style="" class="k k-14" width="48.6" height="72.9" x="335.92806" y="76.52907" transform=""></rect>
+    <text class="t" x="360.22806" y="116.97907" transform=""></text>
+    <rect style="" class="o o-14" data-id="14" width="48.6" height="72.9" x="335.92806" y="76.52907" transform=""></rect>
+    <rect style="" class="k k-15" width="72.9" height="48.6" x="2.30931" y="132.39882" transform=""></rect>
+    <text class="t" x="38.75931" y="160.69882" transform=""></text>
+    <rect style="" class="o o-15" data-id="15" width="72.9" height="48.6" x="2.30931" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-16" width="48.6" height="48.6" x="78.75306" y="132.39882" transform=""></rect>
+    <text class="t" x="103.05306" y="160.69882" transform="">[MsB3]</text>
+    <rect style="" class="o o-16" data-id="16" width="48.6" height="48.6" x="78.75306" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-17" width="48.6" height="48.6" x="130.18806" y="123.82632" transform=""></rect>
+    <text class="t" x="154.48806" y="152.12632" transform="">[Ms←]</text>
+    <rect style="" class="o o-17" data-id="17" width="48.6" height="48.6" x="130.18806" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-18" width="48.6" height="48.6" x="181.62306" y="119.51253" transform=""></rect>
+    <text class="t" x="205.92306" y="147.81253" transform="">[Ms↑]</text>
+    <rect style="" class="o o-18" data-id="18" width="48.6" height="48.6" x="181.62306" y="119.51253" transform=""></rect>
+    <rect style="" class="k k-19" width="48.6" height="48.6" x="233.05806" y="123.82632" transform=""></rect>
+    <text class="t" x="257.35806" y="152.12632" transform="">[Ms→]</text>
+    <rect style="" class="o o-19" data-id="19" width="48.6" height="48.6" x="233.05806" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-20" width="48.6" height="48.6" x="284.49306" y="127.25532" transform=""></rect>
+    <text class="t" x="308.79306" y="155.55532" transform="">[Wh↑]</text>
+    <rect style="" class="o o-20" data-id="20" width="48.6" height="48.6" x="284.49306" y="127.25532" transform=""></rect>
+    <rect style="" class="k k-21" width="72.9" height="48.6" x="2.30931" y="183.83382" transform=""></rect>
+    <text class="t" x="38.75931" y="212.13382" transform="">∅</text>
+    <rect style="" class="o o-21" data-id="21" width="72.9" height="48.6" x="2.30931" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-22" width="48.6" height="48.6" x="78.75306" y="183.83382" transform=""></rect>
+    <text class="t" x="103.05306" y="212.13382" transform=""></text>
+    <rect style="" class="o o-22" data-id="22" width="48.6" height="48.6" x="78.75306" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-23" width="48.6" height="48.6" x="130.18806" y="175.26132" transform=""></rect>
+    <text class="t" x="154.48806" y="203.56132" transform=""></text>
+    <rect style="" class="o o-23" data-id="23" width="48.6" height="48.6" x="130.18806" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-24" width="48.6" height="48.6" x="181.62306" y="170.94753" transform=""></rect>
+    <text class="t" x="205.92306" y="199.24753" transform="">[Ms↓]</text>
+    <rect style="" class="o o-24" data-id="24" width="48.6" height="48.6" x="181.62306" y="170.94753" transform=""></rect>
+    <rect style="" class="k k-25" width="48.6" height="48.6" x="233.05806" y="175.26132" transform=""></rect>
+    <text class="t" x="257.35806" y="203.56132" transform=""></text>
+    <rect style="" class="o o-25" data-id="25" width="48.6" height="48.6" x="233.05806" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-26" width="48.6" height="48.6" x="284.49306" y="178.69032" transform=""></rect>
+    <text class="t" x="308.79306" y="206.99032" transform="">[Wh↓]</text>
+    <rect style="" class="o o-26" data-id="26" width="48.6" height="48.6" x="284.49306" y="178.69032" transform=""></rect>
+    <rect style="" class="k k-27" width="48.6" height="72.9" x="335.92806" y="153.68157" transform=""></rect>
+    <text class="t" x="360.22806" y="194.13157" transform="">∅</text>
+    <rect style="" class="o o-27" data-id="27" width="48.6" height="72.9" x="335.92806" y="153.68157" transform=""></rect>
+    <rect style="" class="k k-28" width="48.6" height="48.6" x="27.31806" y="235.26882" transform=""></rect>
+    <text class="t" x="51.61806" y="263.56882" transform="">∅</text>
+    <rect style="" class="o o-28" data-id="28" width="48.6" height="48.6" x="27.31806" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-29" width="48.6" height="48.6" x="78.75306" y="235.26882" transform=""></rect>
+    <text class="t" x="103.05306" y="263.56882" transform="">∅</text>
+    <rect style="" class="o o-29" data-id="29" width="48.6" height="48.6" x="78.75306" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-30" width="48.6" height="48.6" x="130.18806" y="226.69632" transform=""></rect>
+    <text class="t" x="154.48806" y="254.99632" transform=""></text>
+    <rect style="" class="o o-30" data-id="30" width="48.6" height="48.6" x="130.18806" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-31" width="48.6" height="48.6" x="181.62306" y="222.38253" transform=""></rect>
+    <text class="t" x="205.92306" y="250.68253" transform=""></text>
+    <rect style="" class="o o-31" data-id="31" width="48.6" height="48.6" x="181.62306" y="222.38253" transform=""></rect>
+    <rect style="" class="k k-32" width="48.6" height="48.6" x="233.05806" y="226.69632" transform=""></rect>
+    <text class="t" x="257.35806" y="254.99632" transform="">∅</text>
+    <rect style="" class="o o-32" data-id="32" width="48.6" height="48.6" x="233.05806" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-33" width="48.6" height="48.6" x="391.08015" y="213.71391" transform="rotate(25,415.38015,238.01391)"></rect>
+    <text class="t" x="415.38015" y="242.01391" transform="rotate(25,415.38015,238.01391)"></text>
+    <rect style="" class="o o-33" data-id="33" width="48.6" height="48.6" x="391.08015" y="213.71391" transform="rotate(25,415.38015,238.01391)"></rect>
+    <rect style="" class="k k-34" width="48.6" height="48.6" x="437.69403" y="235.44702" transform="rotate(25,461.99403,259.74702)"></rect>
+    <text class="t" x="461.99403" y="263.74702" transform="rotate(25,461.99403,259.74702)"></text>
+    <rect style="" class="o o-34" data-id="34" width="48.6" height="48.6" x="437.69403" y="235.44702" transform="rotate(25,461.99403,259.74702)"></rect>
+    <rect style="" class="k k-37" width="48.6" height="48.6" x="415.96092" y="282.0609" transform="rotate(25,440.26092,306.3609)"></rect>
+    <text class="t" x="440.26092" y="310.3609" transform="rotate(25,440.26092,306.3609)"></text>
+    <rect style="" class="o o-37" data-id="37" width="48.6" height="48.6" x="415.96092" y="282.0609" transform="rotate(25,440.26092,306.3609)"></rect>
+    <rect style="" class="k k-38" width="48.6" height="97.2" x="311.8635" y="237.59838" transform="rotate(25,336.1635,286.19838)"></rect>
+    <text class="t" x="336.1635" y="290.19838" transform="rotate(25,336.1635,286.19838)">[MsB1]</text>
+    <rect style="" class="o o-38" data-id="38" width="48.6" height="97.2" x="311.8635" y="237.59838" transform="rotate(25,336.1635,286.19838)"></rect>
+    <rect style="" class="k k-39" width="48.6" height="97.2" x="358.47738" y="259.33824" transform="rotate(25,382.77738,307.93824)"></rect>
+    <text class="t" x="382.77738" y="311.93824" transform="rotate(25,382.77738,307.93824)">[MsB2]</text>
+    <rect style="" class="o o-39" data-id="39" width="48.6" height="97.2" x="358.47738" y="259.33824" transform="rotate(25,382.77738,307.93824)"></rect>
+    <rect style="" class="k k-40" width="48.6" height="48.6" x="394.22106" y="328.68153" transform="rotate(25,418.52106,352.98153)"></rect>
+    <text class="t" x="418.52106" y="356.98153" transform="rotate(25,418.52106,352.98153)"></text>
+    <rect style="" class="o o-40" data-id="40" width="48.6" height="48.6" x="394.22106" y="328.68153" transform="rotate(25,418.52106,352.98153)"></rect>
+    <rect style="" class="k k-47" width="72.9" height="48.6" x="915.69069" y="29.53557" transform=""></rect>
+    <text class="t" x="952.14069" y="57.83557" transform="">∅</text>
+    <rect style="" class="o o-47" data-id="47" width="72.9" height="48.6" x="915.69069" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-46" width="48.6" height="48.6" x="863.54694" y="29.53557" transform=""></rect>
+    <text class="t" x="887.84694" y="57.83557" transform=""></text>
+    <rect style="" class="o o-46" data-id="46" width="48.6" height="48.6" x="863.54694" y="29.53557" transform=""></rect>
+    <rect style="" class="k k-45" width="48.6" height="48.6" x="812.11194" y="20.95632" transform=""></rect>
+    <text class="t" x="836.41194" y="49.25632" transform=""></text>
+    <rect style="" class="o o-45" data-id="45" width="48.6" height="48.6" x="812.11194" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-44" width="48.6" height="48.6" x="760.67694" y="16.64253" transform=""></rect>
+    <text class="t" x="784.97694" y="44.94253" transform=""></text>
+    <rect style="" class="o o-44" data-id="44" width="48.6" height="48.6" x="760.67694" y="16.64253" transform=""></rect>
+    <rect style="" class="k k-43" width="48.6" height="48.6" x="709.24194" y="20.95632" transform=""></rect>
+    <text class="t" x="733.54194" y="49.25632" transform=""></text>
+    <rect style="" class="o o-43" data-id="43" width="48.6" height="48.6" x="709.24194" y="20.95632" transform=""></rect>
+    <rect style="" class="k k-42" width="48.6" height="48.6" x="657.80694" y="24.39207" transform=""></rect>
+    <text class="t" x="682.10694" y="52.69207" transform=""></text>
+    <rect style="" class="o o-42" data-id="42" width="48.6" height="48.6" x="657.80694" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-41" width="48.6" height="48.6" x="606.37194" y="24.39207" transform=""></rect>
+    <text class="t" x="630.67194" y="52.69207" transform="">{QWE}</text>
+    <rect style="" class="o o-41" data-id="41" width="48.6" height="48.6" x="606.37194" y="24.39207" transform=""></rect>
+    <rect style="" class="k k-54" width="72.9" height="48.6" x="915.69069" y="80.96382" transform=""></rect>
+    <text class="t" x="952.14069" y="109.26382" transform=""></text>
+    <rect style="" class="o o-54" data-id="54" width="72.9" height="48.6" x="915.69069" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-53" width="48.6" height="48.6" x="863.54694" y="80.96382" transform=""></rect>
+    <text class="t" x="887.84694" y="109.26382" transform=""></text>
+    <rect style="" class="o o-53" data-id="53" width="48.6" height="48.6" x="863.54694" y="80.96382" transform=""></rect>
+    <rect style="" class="k k-52" width="48.6" height="48.6" x="812.11194" y="72.39132" transform=""></rect>
+    <text class="t" x="836.41194" y="100.69132" transform=""></text>
+    <rect style="" class="o o-52" data-id="52" width="48.6" height="48.6" x="812.11194" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-51" width="48.6" height="48.6" x="760.67694" y="68.07753" transform=""></rect>
+    <text class="t" x="784.97694" y="96.37753" transform=""></text>
+    <rect style="" class="o o-51" data-id="51" width="48.6" height="48.6" x="760.67694" y="68.07753" transform=""></rect>
+    <rect style="" class="k k-50" width="48.6" height="48.6" x="709.24194" y="72.39132" transform=""></rect>
+    <text class="t" x="733.54194" y="100.69132" transform=""></text>
+    <rect style="" class="o o-50" data-id="50" width="48.6" height="48.6" x="709.24194" y="72.39132" transform=""></rect>
+    <rect style="" class="k k-49" width="48.6" height="48.6" x="657.80694" y="75.82032" transform=""></rect>
+    <text class="t" x="682.10694" y="104.12032" transform=""></text>
+    <rect style="" class="o o-49" data-id="49" width="48.6" height="48.6" x="657.80694" y="75.82032" transform=""></rect>
+    <rect style="" class="k k-48" width="48.6" height="72.9" x="606.37194" y="76.52907" transform=""></rect>
+    <text class="t" x="630.67194" y="116.97907" transform=""></text>
+    <rect style="" class="o o-48" data-id="48" width="48.6" height="72.9" x="606.37194" y="76.52907" transform=""></rect>
+    <rect style="" class="k k-60" width="72.9" height="48.6" x="915.69069" y="132.39882" transform=""></rect>
+    <text class="t" x="952.14069" y="160.69882" transform="">⏯</text>
+    <rect style="" class="o o-60" data-id="60" width="72.9" height="48.6" x="915.69069" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-59" width="48.6" height="48.6" x="863.54694" y="132.39882" transform=""></rect>
+    <text class="t" x="887.84694" y="160.69882" transform=""></text>
+    <rect style="" class="o o-59" data-id="59" width="48.6" height="48.6" x="863.54694" y="132.39882" transform=""></rect>
+    <rect style="" class="k k-58" width="48.6" height="48.6" x="812.11194" y="123.82632" transform=""></rect>
+    <text class="t" x="836.41194" y="152.12632" transform=""></text>
+    <rect style="" class="o o-58" data-id="58" width="48.6" height="48.6" x="812.11194" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-57" width="48.6" height="48.6" x="760.67694" y="119.51253" transform=""></rect>
+    <text class="t" x="784.97694" y="147.81253" transform="">⏩</text>
+    <rect style="" class="o o-57" data-id="57" width="48.6" height="48.6" x="760.67694" y="119.51253" transform=""></rect>
+    <rect style="" class="k k-56" width="48.6" height="48.6" x="709.24194" y="123.82632" transform=""></rect>
+    <text class="t" x="733.54194" y="152.12632" transform="">⏪</text>
+    <rect style="" class="o o-56" data-id="56" width="48.6" height="48.6" x="709.24194" y="123.82632" transform=""></rect>
+    <rect style="" class="k k-55" width="48.6" height="48.6" x="657.80694" y="127.25532" transform=""></rect>
+    <text class="t" x="682.10694" y="155.55532" transform=""></text>
+    <rect style="" class="o o-55" data-id="55" width="48.6" height="48.6" x="657.80694" y="127.25532" transform=""></rect>
+    <rect style="" class="k k-67" width="72.9" height="48.6" x="915.69069" y="183.83382" transform=""></rect>
+    <text class="t" x="952.14069" y="212.13382" transform=""></text>
+    <rect style="" class="o o-67" data-id="67" width="72.9" height="48.6" x="915.69069" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-66" width="48.6" height="48.6" x="863.54694" y="183.83382" transform=""></rect>
+    <text class="t" x="887.84694" y="212.13382" transform=""></text>
+    <rect style="" class="o o-66" data-id="66" width="48.6" height="48.6" x="863.54694" y="183.83382" transform=""></rect>
+    <rect style="" class="k k-65" width="48.6" height="48.6" x="812.11194" y="175.26132" transform=""></rect>
+    <text class="t" x="836.41194" y="203.56132" transform=""></text>
+    <rect style="" class="o o-65" data-id="65" width="48.6" height="48.6" x="812.11194" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-64" width="48.6" height="48.6" x="760.67694" y="170.94753" transform=""></rect>
+    <text class="t" x="784.97694" y="199.24753" transform="">⏭</text>
+    <rect style="" class="o o-64" data-id="64" width="48.6" height="48.6" x="760.67694" y="170.94753" transform=""></rect>
+    <rect style="" class="k k-63" width="48.6" height="48.6" x="709.24194" y="175.26132" transform=""></rect>
+    <text class="t" x="733.54194" y="203.56132" transform="">⏮</text>
+    <rect style="" class="o o-63" data-id="63" width="48.6" height="48.6" x="709.24194" y="175.26132" transform=""></rect>
+    <rect style="" class="k k-62" width="48.6" height="48.6" x="657.80694" y="178.69032" transform=""></rect>
+    <text class="t" x="682.10694" y="206.99032" transform=""></text>
+    <rect style="" class="o o-62" data-id="62" width="48.6" height="48.6" x="657.80694" y="178.69032" transform=""></rect>
+    <rect style="" class="k k-61" width="48.6" height="72.9" x="606.37194" y="153.68157" transform=""></rect>
+    <text class="t" x="630.67194" y="194.13157" transform=""></text>
+    <rect style="" class="o o-61" data-id="61" width="48.6" height="72.9" x="606.37194" y="153.68157" transform=""></rect>
+    <rect style="" class="k k-72" width="48.6" height="48.6" x="914.98194" y="235.26882" transform=""></rect>
+    <text class="t" x="939.28194" y="263.56882" transform=""></text>
+    <rect style="" class="o o-72" data-id="72" width="48.6" height="48.6" x="914.98194" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-71" width="48.6" height="48.6" x="863.54694" y="235.26882" transform=""></rect>
+    <text class="t" x="887.84694" y="263.56882" transform=""></text>
+    <rect style="" class="o o-71" data-id="71" width="48.6" height="48.6" x="863.54694" y="235.26882" transform=""></rect>
+    <rect style="" class="k k-70" width="48.6" height="48.6" x="812.11194" y="226.69632" transform=""></rect>
+    <text class="t" x="836.41194" y="254.99632" transform="">🔇</text>
+    <rect style="" class="o o-70" data-id="70" width="48.6" height="48.6" x="812.11194" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-69" width="48.6" height="48.6" x="760.67694" y="222.38253" transform=""></rect>
+    <text class="t" x="784.97694" y="250.68253" transform="">🔊</text>
+    <rect style="" class="o o-69" data-id="69" width="48.6" height="48.6" x="760.67694" y="222.38253" transform=""></rect>
+    <rect style="" class="k k-68" width="48.6" height="48.6" x="709.24194" y="226.69632" transform=""></rect>
+    <text class="t" x="733.54194" y="254.99632" transform="">🔉</text>
+    <rect style="" class="o o-68" data-id="68" width="48.6" height="48.6" x="709.24194" y="226.69632" transform=""></rect>
+    <rect style="" class="k k-74" width="48.6" height="48.6" x="551.21985" y="213.71391" transform="rotate(-25,575.51985,238.01391)"></rect>
+    <text class="t" x="575.51985" y="242.01391" transform="rotate(-25,575.51985,238.01391)"></text>
+    <rect style="" class="o o-74" data-id="74" width="48.6" height="48.6" x="551.21985" y="213.71391" transform="rotate(-25,575.51985,238.01391)"></rect>
+    <rect style="" class="k k-73" width="48.6" height="48.6" x="504.60597" y="235.44702" transform="rotate(-25,528.90597,259.74702)"></rect>
+    <text class="t" x="528.90597" y="263.74702" transform="rotate(-25,528.90597,259.74702)"></text>
+    <rect style="" class="o o-73" data-id="73" width="48.6" height="48.6" x="504.60597" y="235.44702" transform="rotate(-25,528.90597,259.74702)"></rect>
+    <rect style="" class="k k-75" width="48.6" height="48.6" x="526.33908" y="282.0609" transform="rotate(-25,550.63908,306.3609)"></rect>
+    <text class="t" x="550.63908" y="310.3609" transform="rotate(-25,550.63908,306.3609)"></text>
+    <rect style="" class="o o-75" data-id="75" width="48.6" height="48.6" x="526.33908" y="282.0609" transform="rotate(-25,550.63908,306.3609)"></rect>
+    <rect style="" class="k k-80" width="48.6" height="97.2" x="630.4365" y="237.59838" transform="rotate(-25,654.7365,286.19838)"></rect>
+    <text class="t" x="654.7365" y="290.19838" transform="rotate(-25,654.7365,286.19838)"></text>
+    <rect style="" class="o o-80" data-id="80" width="48.6" height="97.2" x="630.4365" y="237.59838" transform="rotate(-25,654.7365,286.19838)"></rect>
+    <rect style="" class="k k-79" width="48.6" height="97.2" x="583.82262" y="259.33824" transform="rotate(-25,608.12262,307.93824)"></rect>
+    <text class="t" x="608.12262" y="311.93824" transform="rotate(-25,608.12262,307.93824)"></text>
+    <rect style="" class="o o-79" data-id="79" width="48.6" height="97.2" x="583.82262" y="259.33824" transform="rotate(-25,608.12262,307.93824)"></rect>
+    <rect style="" class="k k-78" width="48.6" height="48.6" x="548.07894" y="328.68153" transform="rotate(-25,572.37894,352.98153)"></rect>
+    <text class="t" x="572.37894" y="356.98153" transform="rotate(-25,572.37894,352.98153)"></text>
+    <rect style="" class="o o-78" data-id="78" width="48.6" height="48.6" x="548.07894" y="328.68153" transform="rotate(-25,572.37894,352.98153)"></rect>
+  </g>
+</svg>

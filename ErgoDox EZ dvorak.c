@@ -64,7 +64,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_8,
     KC_9,
     KC_0,
-    KC_EQUAL,
+    LT(3, KC_EQUAL),
 
     TG(2),
     KC_F,
@@ -204,7 +204,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [2] = KEYMAP(
     // left main
     // there's probably more keys that would make sense here, but for now this is great
-    KC_PSCREEN,
+    KC_ESC,
     KC_F1,
     KC_F2,
     KC_F3,
@@ -259,14 +259,14 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_PSCREEN,
 
     KC_TRANSPARENT,
-    KC_UP,
+    KC_PERCENT,
     KC_KP_7,
     KC_KP_8,
     KC_KP_9,
     KC_KP_ASTERISK,
     KC_KP_SLASH,
 
-    KC_DOWN,
+    KC_SPACE,
     KC_KP_4,
     KC_KP_5,
     KC_KP_6,
@@ -279,7 +279,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_KP_2,
     KC_KP_3,
     KC_KP_ENTER,
-    KC_TRANSPARENT,
+    KC_RSHIFT,
 
     KC_KP_0,
     KC_KP_0,
@@ -331,9 +331,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     KC_TRANSPARENT, // ctrl
     KC_TRANSPARENT, // gui
+    KC_NO,
+    KC_NO,
     KC_TRANSPARENT, // alt
-    KC_MS_BTN1,
-    KC_MS_BTN2,
 
     // left thumb
     KC_NO,
