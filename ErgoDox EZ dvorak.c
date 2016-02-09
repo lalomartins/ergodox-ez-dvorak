@@ -26,7 +26,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_DOT,
     KC_P,
     KC_Y,
-    TG(2),
+    TG(3),
 
     KC_CAPSLOCK,   // XXX should do something with the LEDs
     KC_A,
@@ -41,12 +41,12 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_J,
     KC_K,
     KC_X,
-    TG(3),
+    TG(4),
 
     KC_LCTRL,
     KC_LGUI,
     KC_INT3,       // on Ubuntu, with JA keymap, types \| instead of the ¥ it's supposed to type. In kana, it's the long dash.
-    KC_INT5,       // Kana switch in JA
+    KC_INT2,       // Kana switch in JA
     KC_LALT,
 
     // left thumb
@@ -55,7 +55,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_DOWN,
     KC_SPACE,
     KC_BSPACE,
-    LT(2, KC_LEFT),
+    LT(3, KC_LEFT),
 
     // right main
     KC_WWW_FORWARD,
@@ -64,9 +64,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_8,
     KC_9,
     KC_0,
-    LT(3, KC_EQUAL),
+    LT(4, KC_EQUAL),
 
-    TG(2),
+    TG(3),
     KC_F,
     KC_G,
     KC_C,
@@ -87,8 +87,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_W,
     KC_V,
     KC_Z,
-    // KC_RSHIFT,
-    SFT_T(KC_INT1),      // JP: \_, kanna: ro
+    KC_RSHIFT,
+    // SFT_T(KC_INT1),      // JP: \_, kanna: ro
 
     KC_RGUI,
     KC_NONUS_BSLASH,     // xmodmapped to €¥
@@ -100,11 +100,12 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_PGUP,
     KC_ESCAPE,
     KC_PGDOWN,
-    LT(2, KC_RIGHT),
+    LT(3, KC_RIGHT),
     KC_TAB,
     KC_ENTER
   ),
 
+  // QWERTY
   [1] = KEYMAP(
     // left main
     KC_TRANSPARENT,      // JP: Zenkaku_Hankaku
@@ -159,7 +160,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT,      // JP: 8(
     KC_TRANSPARENT,      // JP: 9)
     KC_TRANSPARENT,      // JP: 0~
-    LT(3, KC_RBRACKET),  // JP: [{
+    LT(4, KC_RBRACKET),  // JP: [{
 
     KC_TRANSPARENT,
     KC_Y,
@@ -201,7 +202,104 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_ENTER
   ),
 
+  // Thumb Shift
   [2] = KEYMAP(
+    // left main
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_LEFT,
+    KC_RIGHT,
+    KC_TRANSPARENT,
+
+    // left thumb
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_INT4,
+    KC_SPACE,
+    LT(3, KC_BSPACE),
+
+    // right main
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,      // JP: 6&
+    KC_TRANSPARENT,      // JP: 7'
+    KC_TRANSPARENT,      // JP: 8(
+    KC_TRANSPARENT,      // JP: 9)
+    KC_TRANSPARENT,      // JP: 0~
+    KC_TRANSPARENT,
+    // LT(4, KC_RBRACKET),  // JP: [{
+
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+
+    // right thumb
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    LT(3, KC_TAB),
+    KC_ENTER,
+    KC_INT5
+  ),
+
+  //  Keypads
+  [3] = KEYMAP(
     // left main
     // there's probably more keys that would make sense here, but for now this is great
     KC_ESC,
@@ -296,7 +394,8 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT
   ),
 
-  [3] = KEYMAP(
+  // Mouse and Media
+  [4] = KEYMAP(
     // left main
     KC_MS_ACCEL0,
     KC_MS_ACCEL1,
@@ -304,7 +403,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_NO,
     KC_NO,
     KC_NO,
-    KC_NO,
+    TG(2),
 
     KC_NO,
     KC_NO,
@@ -427,6 +526,15 @@ void * matrix_scan_user(void) {
     switch (layer) {
         case 1: // qwerty/japanese mode
             ergodox_right_led_3_on();
+            ergodox_right_led_3_set(31);
+
+            if (host_keyboard_leds() & (1<<USB_LED_CAPS_LOCK)) {
+              ergodox_right_led_2_on();
+              ergodox_right_led_2_set(31);
+            }
+            break;
+        case 2: // thumb shift japanese mode
+            ergodox_right_led_3_on();
             ergodox_right_led_3_set(7);
 
             if (host_keyboard_leds() & (1<<USB_LED_CAPS_LOCK)) {
@@ -434,7 +542,7 @@ void * matrix_scan_user(void) {
               ergodox_right_led_2_set(31);
             }
             break;
-        case 2: // keypads
+        case 3: // keypads
             ergodox_right_led_1_on();
             ergodox_right_led_1_set(15);
             if (!(host_keyboard_leds() & (1<<USB_LED_NUM_LOCK))) {
@@ -442,7 +550,7 @@ void * matrix_scan_user(void) {
               ergodox_right_led_2_set(127);
             }
             break;
-        case 3: // mouse & media
+        case 4: // mouse & media
             ergodox_right_led_1_on();
             ergodox_right_led_1_set(127);
             break;
