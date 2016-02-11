@@ -246,7 +246,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT,
     KC_TRANSPARENT,
     KC_TRANSPARENT,
-    KC_INT4,
+    KC_INT5,
     KC_SPACE,
     LT(3, KC_BSPACE),
 
@@ -295,7 +295,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT,
     LT(3, KC_TAB),
     KC_ENTER,
-    KC_INT5
+    KC_INT4
   ),
 
   //  Keypads
