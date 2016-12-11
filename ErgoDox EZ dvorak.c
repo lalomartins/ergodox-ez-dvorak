@@ -2,9 +2,11 @@
 #include "debug.h"
 #include "action_layer.h"
 #include "led.h"
+#include "backlight.h"
 
 #define KC_QUESTION_MARK LSFT(KC_SLASH)   // ?
 // #define KC_KP_BSPACE 0xBB
+
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   // If it accepts an argument (i.e, is a function), it doesn't need KC_.
@@ -28,7 +30,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_Y,
     TG(3),
 
-    KC_CAPSLOCK,   // XXX should do something with the LEDs
+    KC_CAPSLOCK,
     KC_A,
     KC_O,
     KC_E,
@@ -81,7 +83,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_S,
     KC_MINUS,
 
-    KC_LANG3,      // I bound this to IM/keymap switch ^.^
+    // linux:
+    //KC_LANG3,      // I bound this to IM/keymap switch ^.^
+    // windows: IM switch can't be freely rebound
+   LGUI(KC_SPACE),
     KC_B,
     KC_M,
     KC_W,
