@@ -23,26 +23,26 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_WWW_BACK,
 
     KC_DELETE,
-    KC_QUOTE,
-    KC_COMMA,
-    KC_DOT,
-    KC_P,
-    KC_Y,
+    KC_Q,
+    KC_W,
+    KC_E,
+    KC_R,
+    KC_T,
     TG(3),
 
     KC_CAPSLOCK,
     KC_A,
-    KC_O,
-    KC_E,
-    KC_U,
-    KC_I,
+    KC_S,
+    KC_D,
+    KC_F,
+    KC_G,
 
     KC_LSHIFT,
-    KC_SCOLON,
-    KC_Q,
-    KC_J,
-    KC_K,
+    KC_Z,
     KC_X,
+    KC_C,
+    KC_V,
+    KC_B,
     TG(4),
 
     KC_LCTRL,
@@ -69,29 +69,29 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     LT(4, KC_EQUAL),
 
     TG(3),
-    KC_F,
-    KC_G,
-    KC_C,
-    KC_R,
-    KC_L,
-    KC_SLASH,
+    KC_Y,
+    KC_U,
+    KC_I,
+    KC_O,
+    KC_P,
+    KC_MINUS,            // JP: @`
 
-    KC_D,
     KC_H,
-    KC_T,
-    KC_N,
-    KC_S,
-    KC_MINUS,
+    KC_J,
+    KC_K,
+    KC_L,
+    KC_SCOLON,           // JP: ;+
+    KC_QUOTE,            // JP: :*
 
     // linux:
     //KC_LANG3,      // I bound this to IM/keymap switch ^.^
     // windows: IM switch can't be freely rebound
    LGUI(KC_SPACE),
-    KC_B,
+    KC_N,
     KC_M,
-    KC_W,
-    KC_V,
-    KC_Z,
+    KC_COMMA,
+    KC_DOT,
+    KC_SLASH,
     KC_RSHIFT,
     // SFT_T(KC_INT1),      // JP: \_, kanna: ro
 
@@ -110,7 +110,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_ENTER
   ),
 
-  // QWERTY
+  // Dvorak
   [1] = KEYMAP(
     // left main
     KC_TRANSPARENT,      // JP: Zenkaku_Hankaku
@@ -122,26 +122,26 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT,
 
     KC_TRANSPARENT,
-    KC_Q,
-    KC_W,
-    KC_E,
-    KC_R,
-    KC_T,
+    KC_QUOTE,
+    KC_COMMA,
+    KC_DOT,
+    KC_P,
+    KC_Y,
     KC_TRANSPARENT,
 
     KC_TRANSPARENT,
     KC_A,
-    KC_S,
-    KC_D,
-    KC_F,
-    KC_G,
+    KC_O,
+    KC_E,
+    KC_U,
+    KC_I,
 
     KC_TRANSPARENT,
-    KC_Z,
+    KC_SCOLON,
+    KC_Q,
+    KC_J,
+    KC_K,
     KC_X,
-    KC_C,
-    KC_V,
-    KC_B,
     KC_TRANSPARENT,
 
     KC_TRANSPARENT,
@@ -165,29 +165,29 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT,      // JP: 8(
     KC_TRANSPARENT,      // JP: 9)
     KC_TRANSPARENT,      // JP: 0~
-    LT(4, KC_EQUAL),     // JP: [{
+    LT(4, KC_EQUAL),  // JP: [{
 
     KC_TRANSPARENT,
-    KC_Y,
-    KC_U,
-    KC_I,
-    KC_O,
-    KC_P,
-    KC_MINUS,            // JP: @`
-
-    KC_H,
-    KC_J,
-    KC_K,
+    KC_F,
+    KC_G,
+    KC_C,
+    KC_R,
     KC_L,
-    KC_SCOLON,           // JP: ;+
-    KC_QUOTE,            // JP: :*
+    KC_SLASH,
+
+    KC_D,
+    KC_H,
+    KC_T,
+    KC_N,
+    KC_S,
+    KC_MINUS,
 
     KC_TRANSPARENT,
-    KC_N,
+    KC_B,
     KC_M,
-    KC_COMMA,
-    KC_DOT,
-    KC_SLASH,
+    KC_W,
+    KC_V,
+    KC_Z,
     KC_TRANSPARENT,
     // SFT_T(KC_RO),        // JP: \_, kanna: ro
 
