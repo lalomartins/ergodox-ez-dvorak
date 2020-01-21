@@ -316,7 +316,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_F11,
 
     KC_TRANSPARENT,
-    KC_NO,
+    KC_INSERT,
     KC_NO,
     KC_UP,
     KC_PGUP,
