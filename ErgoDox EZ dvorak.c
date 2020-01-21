@@ -165,7 +165,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT,      // JP: 8(
     KC_TRANSPARENT,      // JP: 9)
     KC_TRANSPARENT,      // JP: 0~
-    LT(4, KC_RBRACKET),  // JP: [{
+    LT(4, KC_EQUAL),  // JP: [{
 
     KC_TRANSPARENT,
     KC_Y,
@@ -173,7 +173,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_I,
     KC_O,
     KC_P,
-    KC_LBRACKET,         // JP: @`
+    KC_MINUS,         // JP: @`
 
     KC_H,
     KC_J,
@@ -191,20 +191,20 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     KC_TRANSPARENT,
     // SFT_T(KC_RO),        // JP: \_, kanna: ro
 
-    KC_HOME,
-    KC_END,
-    KC_MINUS,            // JP: -=
-    KC_EQUAL,            // JP: ^~
-    CTL_T(KC_BSLASH),    // JP: ]}
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,    // JP: -=
+    KC_TRANSPARENT,    // JP: ^~
+    KC_TRANSPARENT,    // JP: ]}
 
     // right thumb
     // ALT_T(KC_JYEN),      // on Ubuntu, with JA keymap, types \| instead of the ¥ it's supposed to type. In kana, it's the long dash.
     KC_TRANSPARENT,
-    KC_ESCAPE,
-    KC_PGUP,
-    KC_PGDOWN,
-    KC_TAB,
-    KC_ENTER
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT,
+    KC_TRANSPARENT
   ),
 
   // Thumb Shift
